@@ -1,146 +1,210 @@
 # ⚖️ Legal & Tax RAG System
 
-AI-powered research assistant for US Tax Law & Legal documents — answers grounded in source documents with **precise citations**.
+An enterprise-grade AI research assistant for US Tax Law & Legal documents. Answers are **always grounded in source documents** with precise citations — no hallucinations.
 
 ---
 
-## Stack
+## 🏆 Evaluation Results (90-Question Golden Set)
+
+| Metric | Score |
+|--------|-------|
+| **Retrieval Top-1 Accuracy** | **83.3%** |
+| **Retrieval Top-3 Accuracy** | **88.9%** |
+| **Retrieval Top-5 Accuracy** | **93.3%** |
+| **Average Faithfulness (LLM-as-Judge)** | **3.89 / 5** |
+| Judgments Category Top-1 Accuracy | **100%** |
+
+> Full report: [`docs/Evaluation_Report.md`](docs/Evaluation_Report.md)
+
+---
+
+## 🏗️ Architecture
+
+```
+PDF Documents
+    │
+    ▼
+[1] Parser (PyPDF2 / pdfplumber)
+    │  Extracts text, preserves page numbers & sections
+    ▼
+[2] Hybrid Search Indexing
+    ├─► Pinecone  (Vector DB — semantic search via nomic-embed-text)
+    ├─► Elasticsearch (BM25 keyword search — optional)
+    └─► NetworkX  (Citation Graph — Graph RAG)
+    │
+    ▼
+[3] Query Pipeline
+    │  User query → embed → hybrid search → graph enrichment
+    ▼
+[4] LLM (Groq llama-3.3-70b)
+    │  Answers ONLY from retrieved chunks, with citations
+    ▼
+[5] Streamlit UI / FastAPI
+    │  Displays answer + exact source document + page number
+```
+
+---
+
+## 🛠️ Tech Stack
 
 | Layer | Tool |
 |-------|------|
 | Embeddings | Ollama `nomic-embed-text` (local, 768-dim) |
-| Vector Store | Pinecone (serverless, cosine) |
+| Vector Store | Pinecone (serverless, cosine similarity) |
 | Keyword Search | Elasticsearch 8.x BM25 (Docker, optional) |
 | LLM | Groq `llama-3.3-70b-versatile` |
+| Graph RAG | NetworkX (Judgment → Act citation mapping) |
 | UI | Streamlit |
 | API | FastAPI |
-| Graph | NetworkX (Judgment → Act citation graph) |
 
 ---
 
-## Quick Start
+## 🚀 Quick Start (Step-by-Step)
 
-### 1. Prerequisites
+### Step 1: Clone the repository
 
 ```bash
-# Python 3.10+
-pip install -r requirements.txt
+git clone https://github.com/ashishSoni1234/legal-tax-rag-engine.git
+cd legal-tax-rag-engine
+```
 
-# Ollama (local embeddings)
-# Download from: https://ollama.ai
+### Step 2: Install Python dependencies
+
+> Requires **Python 3.10+**
+
+```bash
+pip install -r requirements.txt
+```
+
+### Step 3: Install & start Ollama (for local embeddings)
+
+Download Ollama from: **https://ollama.ai** and install it.
+
+Then run:
+```bash
 ollama serve
 ollama pull nomic-embed-text
 ```
 
-### 2. Configure `.env` (API Keys Required)
+> ⚠️ Ollama MUST be running before starting the app. Without it, embeddings will fail.
 
-You must provide two API keys to run this system.
-1. **Pinecone API Key:** Get it free at [pinecone.io](https://pinecone.io). This is used for the Vector Database.
-2. **Groq API Key:** Get it free at [console.groq.com](https://console.groq.com). This is used for the Llama-3.3 LLM.
+### Step 4: Configure API Keys
 
-Create a `.env` file in the root directory (or rename `.env.example` to `.env`) and paste the following exactly:
-```env
-PINECONE_API_KEY="your_pinecone_api_key_here"
-LLM_API_KEY="your_groq_api_key_here"
+Create a `.env` file in the root directory (copy from template):
+```bash
+cp .env.example .env
 ```
 
-### 3. (Optional) Start Elasticsearch for full hybrid search
+Then open `.env` and fill in **2 required keys**:
+
+```env
+# 1. Get FREE from: https://console.groq.com
+LLM_API_KEY=your_groq_api_key_here
+
+# 2. Get FREE from: https://app.pinecone.io
+PINECONE_API_KEY=your_pinecone_api_key_here
+```
+
+All other values in `.env` can remain as defaults.
+
+### Step 5: (Optional) Start Elasticsearch for full Hybrid Search
+
+> Skip this step if you don't have Docker. The system works without it (vector-only mode).
 
 ```bash
 docker-compose up -d
-# Wait ~30s for ES to be ready
+# Wait ~30 seconds for Elasticsearch to be ready
 ```
 
-### 4. Parse PDFs → build chunks
+### Step 6: Parse PDFs and build the search index
+
+> ⚠️ This step only needs to be done ONCE. It reads all PDFs and uploads vectors to Pinecone.
 
 ```bash
+# Parse all PDFs into chunks
 python src/parser.py
-```
 
-### 5. Build search index (Pinecone + Elasticsearch)
-
-```bash
+# Build Pinecone index (uploads embeddings)
 python src/search.py --build
 ```
 
-### 6. Run Streamlit UI
+### Step 7: Run the Streamlit UI
 
 ```bash
 streamlit run src/app.py
-# Opens at http://localhost:8501
+# Opens automatically at: http://localhost:8501
 ```
 
-### 7. (Optional) Run FastAPI backend
+### Step 8: (Optional) Run the FastAPI backend
 
 ```bash
 uvicorn src.api:app --reload --port 8000
-# Docs at http://localhost:8000/docs
+# Swagger docs at: http://localhost:8000/docs
 ```
 
 ---
 
-## Evaluation & Performance Metrics
+## 📊 Run Evaluation Against Golden Set
 
-We evaluated the system against a **90-document Golden Set** representing real-world legal queries across Tax Acts, Court Judgments, and POVs.
-
-**Key Results (Live Test):**
-- **Retrieval Top-1 Accuracy:** 83.3%
-- **Retrieval Top-5 Accuracy:** 93.3%
-- **Average Faithfulness:** 3.89 / 5 (LLM-as-a-Judge)
-
-*Note: The system achieved **100% Top-1 Accuracy** specifically on the 'Judgments' category, proving the effectiveness of the Graph RAG citation extraction.*
-
-To reproduce the evaluation:
 ```bash
-# Run against full Golden Set (90 Q&A pairs)
+# Full 90-question evaluation
 python src/evaluate.py
 
-# Limit rows for quick test
+# Quick test (first 20 questions)
 python src/evaluate.py --max_rows 20
 ```
 
-Detailed reports are generated and saved to:
-- `outputs/evaluation_report.json`
-- `docs/Evaluation_Report.md` (Included in this repo as official proof)
+Reports are saved to:
+- `outputs/evaluation_report.json` — raw JSON data
+- `docs/Evaluation_Report.md` — formatted markdown report
 
 ---
 
-## Unit Tests
+## 🧪 Unit Tests
 
 ```bash
-pip install pytest
 python -m pytest tests/test_system.py -v
 ```
 
 ---
 
-## Architecture
+## 📁 Project Structure
 
-See [`docs/architecture.md`](docs/architecture.md) for the full system diagram and data flow.
+```
+legal-tax-rag-engine/
+├── data/
+│   ├── acts/          # 30 PDFs — 26 USC Tax Code sections
+│   ├── judgement/     # 30 PDFs — US Tax Court cases
+│   ├── pov/           # 30 PDFs — Tax Foundation policy docs
+│   └── Tax/           # 10 PDFs — IRS Publications
+├── src/
+│   ├── parser.py      # Milestone 1: PDF ingestion & chunking
+│   ├── search.py      # Milestone 2: Hybrid Pinecone + Elasticsearch
+│   ├── graph_rag.py   # Milestone 2: Citation graph (NetworkX)
+│   ├── api.py         # Milestone 3: FastAPI Q&A & Summarization
+│   ├── app.py         # Milestone 3: Streamlit UI
+│   └── evaluate.py    # Milestone 4: Golden Set evaluation pipeline
+├── tests/
+│   └── test_system.py
+├── outputs/
+│   ├── parsed_chunks.json      # Generated by parser.py
+│   ├── citation_graph.json     # Generated by graph_rag.py
+│   └── evaluation_report.json  # Generated by evaluate.py
+├── docs/
+│   └── Evaluation_Report.md    # Pre-generated evaluation proof
+├── Golden_Set.xlsx             # 90-question evaluation dataset
+├── docker-compose.yml          # Elasticsearch setup
+├── .env.example                # API key template
+└── requirements.txt
+```
 
 ---
 
-## Project Structure
+## 🔑 API Keys Summary
 
-```
-Legal_Tax_RAG_System/
-├── data/
-│   ├── acts/          # 30 PDFs — 26 USC sections
-│   ├── judgement/     # 30 PDFs — Tax Court cases
-│   ├── pov/           # 30 PDFs — Tax Foundation POV
-│   └── Tax/           # 10 PDFs — IRS Publications
-├── src/
-│   ├── parser.py      # M1: PDF ingestion + chunking
-│   ├── search.py      # M2: Hybrid Pinecone + Elasticsearch
-│   ├── graph_rag.py   # M2: Citation graph (NetworkX)
-│   ├── api.py         # M3: FastAPI backend
-│   ├── app.py         # M3: Streamlit UI
-│   └── evaluate.py    # M4: Evaluation pipeline
-├── tests/
-│   └── test_system.py # Unit + integration tests
-├── outputs/           # Generated files
-├── docs/              # Architecture + eval reports
-├── docker-compose.yml # Elasticsearch
-├── .env.example       # Template (safe to commit)
-└── requirements.txt
-```
+| Key | Where to Get | Required? |
+|-----|-------------|-----------|
+| `PINECONE_API_KEY` | [app.pinecone.io](https://app.pinecone.io) | ✅ Yes |
+| `LLM_API_KEY` (Groq) | [console.groq.com](https://console.groq.com) | ✅ Yes |
+| Ollama | [ollama.ai](https://ollama.ai) (local install) | ✅ Yes |
+| Elasticsearch | Docker (`docker-compose up -d`) | ❌ Optional |
