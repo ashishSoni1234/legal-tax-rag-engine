@@ -32,11 +32,16 @@ ollama serve
 ollama pull nomic-embed-text
 ```
 
-### 2. Configure `.env`
+### 2. Configure `.env` (API Keys Required)
 
-```bash
-cp .env.example .env
-# Fill in your PINECONE_API_KEY and LLM_API_KEY (Groq)
+You must provide two API keys to run this system.
+1. **Pinecone API Key:** Get it free at [pinecone.io](https://pinecone.io). This is used for the Vector Database.
+2. **Groq API Key:** Get it free at [console.groq.com](https://console.groq.com). This is used for the Llama-3.3 LLM.
+
+Create a `.env` file in the root directory (or rename `.env.example` to `.env`) and paste the following exactly:
+```env
+PINECONE_API_KEY="your_pinecone_api_key_here"
+LLM_API_KEY="your_groq_api_key_here"
 ```
 
 ### 3. (Optional) Start Elasticsearch for full hybrid search
