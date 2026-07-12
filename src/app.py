@@ -18,8 +18,11 @@ from typing import List, Dict, Any
 
 # ─── UTF-8 fix (Windows console encoding for § characters) ──────────────────
 import os as _os
-if not _os.getenv("PYTEST_CURRENT_TEST") and hasattr(sys.stderr, "buffer"):
-    sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding="utf-8", errors="replace")
+try:
+    if not _os.getenv("PYTEST_CURRENT_TEST") and hasattr(sys.stderr, "buffer") and not getattr(sys.stderr, "closed", False):
+        sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding="utf-8", errors="replace")
+except Exception:
+    pass
 
 import streamlit as st
 from dotenv import load_dotenv
