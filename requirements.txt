@@ -1,0 +1,37 @@
+# Legal & Tax RAG System — Python Requirements
+# Install with: pip install -r requirements.txt
+
+# PDF Parsing
+PyMuPDF==1.24.14
+
+# Token counting
+tiktoken>=0.7.0
+
+# Vector store (Pinecone cloud)
+pinecone>=3.0.0
+
+# Keyword search (Elasticsearch BM25)
+elasticsearch>=8.0.0
+
+# Graph
+networkx>=3.3
+
+# Web / API
+fastapi>=0.111.0
+uvicorn[standard]>=0.30.0
+python-multipart>=0.0.9
+
+# Streamlit UI
+streamlit>=1.35.0
+
+# LLM — OpenAI-compatible client (used for Groq + Ollama)
+openai>=1.0.0
+
+# Evaluation
+pandas>=2.2.0
+openpyxl>=3.1.5
+
+# Utilities
+python-dotenv>=1.0.0
+tqdm>=4.66.0
+requests>=2.31.0

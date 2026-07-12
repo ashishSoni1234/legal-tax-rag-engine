@@ -1,0 +1,4048 @@
+﻿
+======================================================================
+FILE: p15.pdf
+Pages: 59
+======================================================================
+
+--- Page 1 ---
+Publication 15
+(Circular E), 
+EmployerΓÇÖs Tax 
+Guide
+For use in 2026
+Get forms and other information faster and easier at:
+ΓÇó IRS.gov (English) 
+ΓÇó IRS.gov/Spanish (Espa├▒ol) 
+ΓÇó IRS.gov/Chinese (Σ╕¡µûç) 
+ΓÇó IRS.gov/Korean (φò£Ω╡¡∞û┤) 
+ΓÇó IRS.gov/Russian (P╤â╤ü╤ü╨║╨╕╨╣) 
+ΓÇó IRS.gov/Vietnamese (Tiß║┐ng Viß╗çt) 
+Contents
+WhatΓÇÖs New . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+Reminders
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+Calendar . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Introduction
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+1. Employer Identification Number (EIN)
+. . . . . . . 13
+2. Who Are Employees? . . . . . . . . . . . . . . . . . . . . 14
+3. Family Employees
+. . . . . . . . . . . . . . . . . . . . . . 16
+4. EmployeeΓÇÖs Social Security Number (SSN)
+. . . 17
+5. Wages and Other Compensation
+. . . . . . . . . . . 18
+6. Tips . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+7. Supplemental Wages
+. . . . . . . . . . . . . . . . . . . . 23
+8. Payroll Period . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+9. Withholding From EmployeesΓÇÖ Wages
+. . . . . . . 25
+10. Required Notice to Employees About the 
+Earned Income Credit (EIC) . . . . . . . . . . . . . . 31
+11. Depositing Taxes
+. . . . . . . . . . . . . . . . . . . . . . 31
+12. Filing Forms 941, Form 943, Form 944, or 
+Form 945
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . 38
+13. Reporting Adjustments to Forms 941, Form 
+943, or Form 944
+. . . . . . . . . . . . . . . . . . . . . . 40
+14. Federal Unemployment (FUTA) Tax
+. . . . . . . . 43
+15. Special Rules for Various Types of Services 
+and Payments . . . . . . . . . . . . . . . . . . . . . . . . . 46
+16. Third-Party Payer Arrangements
+. . . . . . . . . . 53
+17. Federal Agency Certifying Requirements of 
+Federal Income Taxes Withheld From U.S. 
+Government Employees Working in, or 
+Federal Pension Recipients Residing in, 
+American Samoa, the CNMI, and Guam . . . . . 54
+How
+
+
+--- Page 2 ---
+the employer and employee. The social security wage 
+base limit is $184,500.
+The Medicare tax rate is 1.45% each for the employee 
+and employer, unchanged from 2025. There is no wage 
+base limit for Medicare tax.
+Social security and Medicare taxes apply to the wages 
+of household workers you pay $3,000 or more in cash wa-
+ges in 2026. Social security and Medicare taxes apply to 
+election workers who are paid $2,500 or more in cash or 
+an equivalent form of compensation in 2026.
+Permanent extension of individual tax rates. P.L. 
+119-21, commonly known as the One Big Beautiful Bill 
+Act, permanently extends the individual income tax rates 
+enacted by the Tax Cuts and Jobs Act (P.L. 115-97). Em-
+ployers will continue to use Pub. 15-T, Federal Income Tax 
+Withholding Methods, to figure federal income tax with-
+holding.
+Withholding on supplemental wages. The withholding 
+rate on supplemental wages remains 22% (37% if supple-
+mental wages paid to an employee during the calendar 
+year exceed $1 million) because P.L. 119-21 permanently 
+extended the individual tax rates enacted in P.L. 115-97. 
+See section 7 for more information about supplemental 
+wages.
+Backup withholding. The backup withholding rate re-
+mains 24% because P.L. 119-21 permanently extended 
+the individual tax rates enacted in P.L. 115-97. For report-
+able payments made under section 6041(a) or 6041A(a) 
+that are made in calendar year 2026 and subject to 
+backup withholding, P.L. 119-21 increases the aggregate 
+reportable payment threshold from $600 to $2,000. This 
+threshold will be adjusted for inflation for each calendar 
+year after 2026. For more information on backup withhold-
+ing, see Backup withholding, later.
+Information reporting threshold increased for certain 
+payments. For payments made after calendar year 2025, 
+P.L. 119-21 increases the information reporting (for exam-
+ple, Forms 1099-MISC and Forms 1099-NEC) payment 
+threshold from $600 to $2,000 in a calendar year for cer-
+tain payments to pe
+
+
+--- Page 3 ---
+Moving Expenses in Pub. 3, Armed ForcesΓÇÖ Tax Guide, for 
+the definition of what constitutes a permanent change of 
+station and to learn which moving expenses are deducti-
+ble.
+P.L. 119-21 also makes the exclusion available to an 
+employee or new appointee of the intelligence community 
+(as defined in section 3 of the National Security Act of 
+1947 (50 U.S.C. 3003)) (other than a member of the 
+Armed Forces of the United States) who moves pursuant 
+to a change in assignment which requires relocation. The 
+exclusion applies only to reimbursement of moving expen-
+ses that an intelligence community employee or appointee 
+could deduct if they had paid or incurred them without re-
+imbursement.
+Employer contributions to Trump accounts. P.L. 
+119-21 allows for a new type of traditional individual retire-
+ment account to be established for a child who has not at-
+tained age 18 at the end of year the account is estab-
+lished, known as a Trump account. This account has an 
+annual contribution limit of $5,000 (other than exempt con-
+tributions), which will be indexed for inflation after tax year 
+2027. Beginning July 4, 2026, employers may contribute 
+up to $2,500 a year, which will be indexed for inflation after 
+tax year 2027, toward the $5,000 contribution limit to the 
+Trump account of an employee or of a dependent of an 
+employee, and the amount will be excluded from the gross 
+income of the employee if paid pursuant to a Trump ac-
+count contribution program. For more information about 
+employer contributions to Trump accounts, see Pub. 15-A, 
+EmployerΓÇÖs Supplemental Tax Guide.
+Direct deposit of employment tax refunds now availa-
+ble. Executive Order (EO) 14247, Modernizing Payments 
+To and From AmericaΓÇÖs Bank Account, issued on March 
+25, 2025, promotes operational efficiency by mandating 
+the transition to electronic payments for all federal dis-
+bursements. Accordingly, the IRS will now issue employ-
+ment tax return refunds by direct deposit. Direct deposit is 
+a fast, 
+
+
+--- Page 4 ---
+2023 for an earlier applicable leave period, file Form 
+941-X, Form 943-X, or Form 944-X to claim the credit for 
+qualified sick and family leave wages paid that year. Filing 
+a Form 941-X, Form 943-X, or Form 944-X before filing a 
+Form 941 for the quarter, or Form 943 or Form 944 for the 
+year, may result in errors or delays in processing your 
+Form 941-X, Form 943-X, or Form 944-X.
+Form 941 (sp), Form 943 (sp), and Form 944 (sp). If 
+you prefer your form and instructions in Spanish, you can 
+file Form 941 (sp), Form 943 (sp), or Form 944 (sp).
+Qualified small business payroll tax credit for in-
+creasing research activities. For tax years beginning 
+before 2023, a qualified small business may elect to claim 
+up to $250,000 of its credit for increasing research activi-
+ties as a payroll tax credit. The Inflation Reduction Act of 
+2022 (the IRA) increases the election amount to $500,000 
+for tax years beginning after 2022. The payroll tax credit 
+election must be made on or before the due date of the 
+originally filed income tax return (including extensions). 
+The portion of the credit used against payroll taxes is al-
+lowed in the first calendar quarter beginning after the date 
+that the qualified small business filed its income tax return. 
+The election and determination of the credit amount that 
+will be used against the employerΓÇÖs payroll taxes are made 
+on Form 6765, Credit for Increasing Research Activities. 
+The amount from Form 6765 must then be reported on 
+Form 8974, Qualified Small Business Payroll Tax Credit for 
+Increasing Research Activities.
+Starting in the first quarter of 2023, the payroll tax credit 
+is first used to reduce the employer share of social secur-
+ity tax up to $250,000 per quarter and any remaining 
+credit reduces the employer share of Medicare tax for the 
+quarter. Any remaining credit, after reducing the employer 
+share of social security tax and the employer share of 
+Medicare tax, is then carried forward to the next quarter. 
+Form 
+
+
+--- Page 5 ---
+theyΓÇÖve started or ended a service contract with a client or 
+customer. CPEOs must generally file Form 941 or Form 
+943 and the applicable Schedule R electronically. For 
+more information about a CPEOΓÇÖs requirement to file elec-
+tronically, see Revenue Procedure 2023-18.
+Other third-party payers that file an aggregate quarterly 
+Form 941 or annual Form 943, such as non-certified 
+PEOs, must complete and file the applicable Schedule R if 
+they have clients that are claiming any employment tax 
+credit (for example, the qualified small business payroll tax 
+credit for increasing research activities).
+Aggregate Form 940 filers. Approved section 3504 
+agents and CPEOs must complete Schedule R (Form 
+940), Allocation Schedule for Aggregate Form 940 Filers, 
+when filing an aggregate Form 940. Aggregate Forms 940 
+can be filed by agents acting on behalf of home care serv-
+ice recipients who receive home care services through a 
+program administered by a federal, state, or local govern-
+ment. To request approval to act as an agent on behalf of 
+home care service recipients, the agent files Form 2678 
+with the IRS unless youΓÇÖre a state or local government 
+agency acting as an agent under the special procedures 
+provided in Revenue Procedure 2013-39. Aggregate 
+Forms 940 are also filed by CPEOs approved by the IRS 
+under section 7705. CPEOs file Form 8973 to notify the 
+IRS that theyΓÇÖve started or ended a service contract with a 
+client or customer. CPEOs must generally file Form 940 
+and Schedule R (Form 940) electronically. For more infor-
+mation about a CPEOΓÇÖs requirement to file electronically, 
+see Revenue Procedure 2023-18.
+Work opportunity tax credit for qualified tax-exempt 
+organizations hiring qualified veterans. Qualified 
+tax-exempt organizations that hire eligible unemployed 
+veterans may be able to claim the work opportunity tax 
+credit against their payroll tax liability using Form 5884-C. 
+For more information, go to IRS.gov/WOTC.
+Medicaid waiver payments. Noti
+
+
+--- Page 6 ---
+Zero wage return. If you havenΓÇÖt filed a ΓÇ£finalΓÇ¥ Form 940 
+and ΓÇ£finalΓÇ¥ Form 941, Form 943, or Form 944, or arenΓÇÖt a 
+ΓÇ£seasonalΓÇ¥ employer (Form 941 only), you must continue 
+to file a Form 940 and Forms 941, Form 943, or Form 944, 
+even for periods during which you paid no wages. The IRS 
+encourages you to file your ΓÇ£zero wageΓÇ¥ Form 940 and 
+Forms 941, Form 943, or Form 944 electronically. Go to 
+IRS.gov/EmploymentEfile for more information on elec-
+tronic filing.
+Federal tax deposits must be made by electronic 
+funds transfer (EFT). You must use EFT to make all fed-
+eral tax deposits. An EFT can be made using the Elec-
+tronic Federal Tax Payment System (EFTPS), IRS Direct 
+Pay, or your IRS business tax account. If you donΓÇÖt want to 
+use one of these methods, you can arrange for your tax 
+professional, financial institution, payroll service, or other 
+trusted third party to make electronic deposits on your be-
+half. Also, you may arrange for your financial institution to 
+initiate a same-day wire payment on your behalf. EFTPS is 
+a free service provided by the Department of the Treasury. 
+Payments made using IRS Direct Pay or through your IRS 
+business tax account are also free. Services provided by 
+your tax professional, financial institution, payroll service, 
+or other third party may have a fee.
+For more information on making federal tax deposits, 
+see How To Deposit in section 11. For more information 
+about IRS Direct Pay, go to IRS.gov/DirectPay. For more 
+information about making a payment through your IRS 
+business tax account, go to IRS.gov/BusinessAccount. To 
+get more information about EFTPS or to enroll in EFTPS, 
+go to EFTPS.gov or call 800-555-4477, 800-244-4829 
+(Spanish), or 303-967-5916 (toll call). To contact EFTPS 
+using Telecommunications Relay Services (TRS) for peo-
+ple who are deaf, hard of hearing, or have a speech disa-
+bility, dial 711 and then provide the TRS assistant the 
+800-555-4477 number or 800-733-4829. Additional infor-
+mation abou
+
+
+--- Page 7 ---
+preparation software or through a tax professional. How-
+ever, donΓÇÖt use EFW to make federal tax deposits. For 
+more information on paying your taxes using EFW, go to 
+IRS.gov/EFW.
+Credit or debit card payments. You can pay the bal-
+ance due shown on your employment tax return by credit 
+or debit card. Your payment will be processed by a pay-
+ment processor who will charge a processing fee. DonΓÇÖt 
+use a credit or debit card to make federal tax deposits. For 
+more information on paying your taxes with a credit or 
+debit card, go to IRS.gov/PayByCard.
+Online payment agreement. You may be eligible to ap-
+ply for an installment agreement online if you canΓÇÖt pay the 
+full amount of tax you owe when you file your employment 
+tax return. For more information, see the instructions for 
+your employment tax return or go to IRS.gov/OPA.
+Forms in Spanish
+Many forms and instructions discussed in this publication 
+have Spanish-language versions available for employers 
+and employees. Some examples include Form 941 (sp), 
+Form 944 (sp), Form SS-4 (sp), Form W-4 (sp), and Form 
+W-9 (sp). Although this publication doesnΓÇÖt reference 
+Spanish-language forms and instructions in each instance 
+that one is available, you can see Pub. 15 (sp) and go to 
+IRS.gov/SpanishForms 
+to 
+determine 
+if 
+a 
+Spanish-language version is available.
+Hiring New Employees
+Eligibility for employment. You must verify that each 
+new employee is legally eligible to work in the United 
+States, including American Samoa, Guam, the CNMI, the 
+U.S. Virgin Islands (USVI), and Puerto Rico. This includes 
+completing the U.S. Citizenship and Immigration Services 
+(USCIS) Form I-9, Employment Eligibility Verification. You 
+can get Form I-9 at USCIS.gov/Forms. For more informa-
+tion, go to USCIS.gov/I-9-Central or call 800-375-5283 or 
+800-767-1833 (TTY).
+You may use the Social Security Number Verification 
+Service (SSNVS) at SSA.gov/employer/ssnv.htm to verify 
+that an employee name matches a social security number 
+(S
+
+
+--- Page 8 ---
+benefit payment according to the employeeΓÇÖs Form W-4 
+and the correct withholding table in Pub. 15-T. Farm 
+operators and crew leaders must withhold federal income 
+tax from the wages of farmworkers if the wages are 
+subject to social security and Medicare taxes. If youΓÇÖre 
+paying supplemental wages to an employee, see section 
+7. If you have nonresident alien employees, see 
+Withholding federal income taxes on the wages of 
+nonresident alien employees in section 9.
+See section 8 of Pub. 15-A for information about 
+withholding on pensions (including distributions from 
+tax-favored retirement plans), annuities, and individual 
+retirement arrangements (IRAs).
+Nonpayroll Federal Income Tax 
+Withholding
+Nonpayroll federal income tax withholding (reported on 
+Forms 1099 and Form W-2G, Certain Gambling Winnings) 
+must be reported on Form 945, Annual Return of Withheld 
+Federal Income Tax. Separate deposits are required for 
+payroll (Form 941, Form 943, or Form 944) and nonpayroll 
+(Form 945) withholding. Nonpayroll items include the 
+following.
+ΓÇó Pensions (including distributions from tax-favored 
+retirement plans, for example, section 401(k), section 
+403(b), and governmental section 457(b) plans), 
+annuities, and IRA distributions.
+ΓÇó Military retirement.
+ΓÇó Gambling winnings.
+ΓÇó Indian gaming profits.
+ΓÇó Certain government payments on which the recipient 
+elected voluntary federal income tax withholding.
+ΓÇó Dividends and other distributions by an ANC on which 
+the recipient elected voluntary federal income tax 
+withholding.
+ΓÇó Payments subject to backup withholding.
+For details on depositing and reporting nonpayroll 
+federal income tax withholding, see the Instructions for 
+Form 945.
+Distributions from nonqualified pension plans and 
+deferred compensation plans. Because distributions to 
+participants from some nonqualified pension plans and 
+deferred compensation plans (including section 457(b) 
+plans of tax-exempt organizations) are treated as wages 
+and are reported on For
+
+
+======================================================================
+FILE: p17.pdf
+Pages: 142
+======================================================================
+
+--- Page 1 ---
+TAX GUIDE
+2025
+Get forms and other information faster and easier at:
+ΓÇó IRS.gov (English) 
+ΓÇó IRS.gov/Spanish (Espa├▒ol) 
+ΓÇó IRS.gov/Chinese (Σ╕¡µûç) 
+ΓÇó IRS.gov/Korean (φò£Ω╡¡∞û┤) 
+ΓÇó IRS.gov/Russian (P╤â╤ü╤ü╨║╨╕╨╣) 
+ΓÇó IRS.gov/Vietnamese (Tiß║┐ng Viß╗çt) 
+Publication 17 (2025)  Catalog Number 10311G
+Jan 13, 2026
+Department of the Treasury  Internal Revenue Service  www.irs.gov
+Your Federal
+Income Tax
+For Individuals
+Publication 17
+For use in preparing
+2025 Returns
+
+
+
+--- Page 2 ---
+Your Federal
+Income Tax
+For Individuals
+Contents
+WhatΓÇÖs New
+. . . . . . . . . . . . . . . . . . . . . . .
+1
+Reminders . . . . . . . . . . . . . . . . . . . . . . . .
+2
+Introduction . . . . . . . . . . . . . . . . . . . . . . .
+3
+Part One. The Income Tax Return . . . . . . . . . .
+6
+1
+Filing Information . . . . . . . . . . . . . . . .
+6
+2
+Filing Status . . . . . . . . . . . . . . . . . . . 21
+3
+Dependents . . . . . . . . . . . . . . . . . . . 26
+4
+Tax Withholding and Estimated Tax
+. . . . . 37
+Part Two. Income and Adjustments 
+to Income
+. . . . . . . . . . . . . . . . . . . . . 46
+5
+Wages, Salaries, and Other Earnings
+. . . . 47
+6
+Interest Income . . . . . . . . . . . . . . . . . 54
+7
+Social Security and Equivalent Railroad 
+Retirement Benefits . . . . . . . . . . . . . . 62
+8
+Other Income . . . . . . . . . . . . . . . . . . 66
+9
+Individual Retirement Arrangements 
+(IRAs)
+. . . . . . . . . . . . . . . . . . . . . 77
+Part Three. Standard Deduction, Itemized 
+Deductions, and Other Deductions . . . . . . 92
+10
+Standard Deduction
+. . . . . . . . . . . . . . 92
+11
+Taxes
+. . . . . . . . . . . . . . . . . . . . . . 96
+12
+Other Itemized Deductions
+. . . . . . . . . 101
+Part Four. Figuring Your Taxes, and 
+Refundable and Nonrefundable Credits . . 106
+13
+How To Figure Your Tax
+. . . . . . . . . . . 106
+14
+Child Tax Credit and Credit for Other 
+Dependents . . . . . . . . . . . . . . . . . 108
+2025 Tax Table . . . . . . . . . . . . . . . . . . . . . 111
+2025 Tax Computation Worksheet
+. . . . . . . . 123
+2025 Tax Rate Schedules . . . . . . . . . . . . . . 124
+Your Rights as a Taxpayer
+. . . . . . . . . . . . . 126
+How To Get Tax Help . . . . . . . . . . . . . . . . . 127
+Index
+. . . . . . . . . . . . . . . . . . . . . . . . . . 129
+Where To File
+. . . . . . . . . . . . . . . . . . . . . 140
+The explanations and examples in this publication 
+reflect the interpretation by the Internal Revenue Service 
+(IRS) of:
+ΓÇó
+Tax laws enacted by Congress,
+ΓÇó
+Treasury regulations, and
+ΓÇó
+Court dec
+
+
+--- Page 3 ---
+WhatΓÇÖs New
+This section summarizes important 
+tax changes that took effect in 
+2025. Most of these changes are 
+discussed 
+in 
+more 
+detail 
+throughout this publication.
+Future developments. For the 
+latest information about the tax law 
+topics covered in this publication, 
+such as legislation enacted after it 
+was published, go to IRS.gov/
+Pub17.
+Who must file. Generally, the 
+amount of income you can receive 
+before you must file a return has 
+been increased. For more informa-
+tion, see chapter 1, later.
+Due date of return. File Form 
+1040 or 1040-SR by April 15, 2026. 
+See chapter 1, later.
+Trump account and new Form 
+4547. Recent legislation allows 
+parents, guardians, and other au-
+thorized individuals to elect to es-
+tablish a new type of individual re-
+tirement account, called a Trump 
+account, for the exclusive benefit of 
+certain children. If the child was 
+born after 2024 and before 2029, is 
+a U.S. citizen, and meets certain 
+other requirements, the authorized 
+individual may also elect to receive 
+a $1,000 pilot program contribution 
+to the childΓÇÖs Trump account. Both 
+elections can be made on Form 
+4547, which can be filed at the 
+same time as the authorized indi-
+vidualΓÇÖs 2025 income tax return. 
+For more information on Trump ac-
+counts, and to learn how to make 
+these elections, see Form 4547 
+and its instructions.
+Standard deduction amount in-
+creased. For 2025, the standard 
+deduction amount has been in-
+creased for all filers. The amounts 
+are:
+ΓÇó
+Single or Married filing sepa-
+ratelyΓÇö$15,750;
+ΓÇó
+Married filing jointly or Qualify-
+ing surviving 
+spouseΓÇö$31,500; and
+ΓÇó
+Head of householdΓÇö$23,625.
+See chapter 10, later.
+Higher 
+catch-up 
+contribution 
+limit for ages 60 to 63. If, at the 
+end of 2025, you were at least age 
+60, but younger than age 64, and 
+you participated in a deferred com-
+pensation plan (including most 
+401(k), 403(b), and governmental 
+457 plans, and the governmental 
+Thrift Savings Plan), a higher 
+catch-up contribution limit may ap
+
+
+--- Page 4 ---
+to claim the credit for other de-
+pendents. Beginning in 2025, to 
+be eligible to claim the credit for 
+other dependents, you, or your 
+spouse if filing jointly, must have a 
+valid SSN or ITIN issued on or be-
+fore the due date of your return (in-
+cluding extensions).
+Changes to the adoption credit. 
+Recent legislation made changes 
+to the adoption credit. Beginning in 
+2025, the following changes apply.
+ΓÇó
+Up to $5,000 of adoption 
+credit is refundable. Up to 
+$5,000 of your adoption credit 
+may be refundable. The 
+amount of the refundable por-
+tion is determined separately 
+for each eligible child.
+ΓÇó
+Parity for Indian Tribal gov-
+ernments. Tribal govern-
+ments now have parity for 
+special needs adoption deter-
+minations. This means that 
+state government and Indian 
+Tribal government determina-
+tions of special needs are 
+both recognized for purposes 
+of the adoption credit. For 
+more information, see Form 
+8839, Qualified Adoption Ex-
+penses, and its instructions.
+The adoption credit and the ex-
+clusion 
+for 
+employer-provided 
+adoption benefits are both $17,280 
+per eligible child in 2025. The 
+amount begins to phase out if you 
+have modified AGI in excess of 
+$259,190 
+and 
+is 
+completely 
+phased out if your modified AGI is 
+$299,190 or more.
+Election to pay tax on farmland 
+sale or exchange in install-
+ments. If your tax year began after 
+July 4, 2025, and you sold or ex-
+changed qualified farmland to a 
+qualified farmer after that date, you 
+can elect to pay the net income tax 
+liability on the sale or exchange in 
+four equal installments. For more 
+information, see the instructions for 
+Schedule 2 (Form 1040) and 
+Schedule 3 (Form 1040). Also, see 
+Form 1062, Deferral of Tax on Gain 
+From the Sale or Exchange of 
+Qualified Farmland Property to 
+Qualified Farmers, and its instruc-
+tions.
+Domestic research and experi-
+mental expenditures. Beginning 
+in 2025, taxpayers are allowed to 
+deduct domestic research and ex-
+perimental expenditures. Alterna-
+tively, tax
+
+
+--- Page 5 ---
+the service. You can also see 
+IR-2021-228 for more information.
+ACTC and bona fide residents 
+of Puerto Rico. Bona fide resi-
+dents of Puerto Rico are no longer 
+required to have three or more 
+qualifying children to be eligible to 
+claim the ACTC. Bona fide resi-
+dents of Puerto Rico may be eligi-
+ble to claim the ACTC if they have 
+one or more qualifying children.
+Foreign-source income. If you 
+are a U.S. citizen with income from 
+sources outside the United States 
+(foreign income), you must report 
+all such income on your tax return 
+unless it is exempt by law or a tax 
+treaty. This is true whether you live 
+inside or outside the United States 
+and whether or not you receive a 
+Form W-2 or Form 1099 from the 
+foreign payer. This applies to 
+earned income (such as wages 
+and tips) as well as unearned in-
+come (such as interest, dividends, 
+capital gains, pensions, rents, and 
+royalties).
+If you live outside the United 
+States, you may be able to exclude 
+part or all of your foreign earned in-
+come. For details, see Pub. 54.
+Foreign financial assets. If you 
+had foreign financial assets in 
+2025, you may have to file Form 
+8938 with your return. See Form 
+8938 and its instructions or go to 
+IRS.gov/Form8938 for details.
+Automatic 6-month extension to 
+file tax return. You can get an au-
+tomatic 6-month extension of time 
+to file your tax return. See chap-
+ter 1, later.
+Payment of taxes. You can pay 
+your taxes by making electronic 
+payments online; from a mobile de-
+vice using the IRS2Go app; or in 
+cash, or by check or money order. 
+Paying electronically is quick, easy, 
+and faster than mailing in a check 
+or money order. See chapter 1, 
+later.
+Faster ways to file your return. 
+The IRS offers fast, accurate ways 
+to file your tax return information 
+without filing a paper tax return. 
+You can use IRS e-file (electronic 
+filing). See chapter 1, later.
+Free electronic filing. You may 
+be able to file your 2025 taxes on-
+line for free. See chapter 1, later.
+Change 
+
+
+
+--- Page 6 ---
+publication, go to the IRS Interac-
+tive Tax Assistant page at IRS.gov/
+Help/ITA where you can find topics 
+by using the search feature or 
+viewing the categories listed.
+Getting tax forms, instruc-
+tions, and publications. Go to 
+IRS.gov/Forms to download cur-
+rent and prior-year forms, instruc-
+tions, and publications.
+Ordering tax forms, instruc-
+tions, and publications. Go to 
+IRS.gov/OrderForms to order cur-
+rent forms, instructions, and publi-
+cations; call 800-829-3676 to order 
+prior-year forms and instructions. 
+The IRS will process your order for 
+forms and publications as soon as 
+possible. DonΓÇÖt resubmit requests 
+youΓÇÖve already sent us. You can get 
+forms and publications faster on-
+line.
+IRS mission. Provide AmericaΓÇÖs 
+taxpayers top-quality service by 
+helping them understand and meet 
+their tax responsibilities and en-
+force the law with integrity and fair-
+ness to all.
+Publication 17 Changes
+Note: This publication does not cover the topics listed in the following table. Please see the primary publication.
+Chapter removed
+Title of chapter
+Primary source
+6
+Tip Income
+Pub. 531, Reporting Tip Income
+8
+Dividends and Other Distributions
+Pub. 550, Investment Income and 
+Expenses
+9
+Rental Income and Expenses
+Pub. 527, Residential Rental Property 
+(Including Rental of Vacation Homes)
+10
+Retirement Plans, Pensions, and Annuities Pub. 575, Pension and Annuity Income
+13
+Basis of Property
+Pub. 551, Basis of Assets
+14
+Sale of Property
+Pub. 550
+15
+Selling Your Home
+Pub. 523, Selling Your Home
+16
+Reporting Gains and Losses
+Pub. 550
+18
+Alimony
+Pub. 504, Divorced or Separated 
+Individuals
+19
+Education-Related Adjustments
+Pub. 970, Tax Benefits for Education
+20
+Other Adjustments to Income
+Pub. 463, Travel, Gift, and Car Expenses
+22
+Medical and Dental Expenses
+Pub. 502, Medical and Dental Expenses
+24
+Interest Expense
+Pub. 550
+Pub. 936, Home Mortgage Interest 
+Deduction
+25
+Charitable Contributions
+Pub. 561, Determining the Value of 
+Donated Property
+Pub. 526, Charitable 
+
+
+--- Page 7 ---
+Table 1. Legend of Icons
+Icon
+Explanation
+CAUTION
+!
+Items that may cause you particular problems, or an alert about pending legislation that may be enacted after 
+this publication goes to print.
+An Internet site or an email address.
+An address you may need.
+RECORDS
+Items you should keep in your personal records.
+Items you may need to figure or a worksheet you may need to complete and keep for your records.
+An important phone number.
+TIP
+Helpful information you may need.
+Publication 17 (2025)
+5
+
+
+
+--- Page 8 ---
+Part One.
+The Income Tax 
+Return
+The four chapters in this part provide basic information on the tax system. 
+They take you through the first steps of filling out a tax return. They also 
+provide information about dependents, and discuss recordkeeping 
+requirements, IRS e-file (electronic filing), certain penalties, and the two 
+methods used to pay tax during the year: withholding and estimated tax.
+The Form 1040 and 1040-SR schedules that are discussed in these 
+chapters are:
+ΓÇó Schedule 1, Additional Income and Adjustments to Income; and
+ΓÇó Schedule 3, Part II, Other Payments and Refundable Credits.
+1.
+Filing 
+Information
+WhatΓÇÖs New
+Due date of return.  File Form 1040 or 
+1040-SR by April 15, 2026.
+Who must file. Generally, the amount of in-
+come you can receive before you must file a re-
+turn has been increased. See Table 1-1, Ta-
+ble 1-2, and Table 1-3 for the specific amounts.
+Trump accounts and new Form 4547. Re-
+cent legislation allows parents, guardians, and 
+other authorized individuals to elect to establish 
+a new type of individual retirement account, 
+called a Trump account, for the exclusive benefit 
+of certain children. If the child was born after 
+2024 and before 2029, is a U.S. citizen, and 
+meets certain other requirements, the author-
+ized individual may also elect to receive a 
+$1,000 pilot program contribution to the childΓÇÖs 
+Trump account. Both elections can be made on 
+Form 4547, which can be filed at the same time 
+as the authorized individualΓÇÖs 2025 income tax 
+return. For more information on Trump ac-
+counts, and to learn how to make these elec-
+tions, see Form 4547 and its instructions.
+Reminders
+File online. E-filing is safe and secure and you 
+may be able to e-file for free. For more informa-
+tion, see File Electronically, later.
+Access your online account (individual tax-
+payers only). Go to IRS.gov/Account to se-
+curely access information about your federal tax 
+account.
+ΓÇó
+View the amount you owe and a break-
+down by tax year.
+ΓÇó
+See payme
+
+
+======================================================================
+FILE: p334.pdf
+Pages: 57
+======================================================================
+
+--- Page 1 ---
+Get forms and other information faster and easier at:
+ΓÇó IRS.gov (English) 
+ΓÇó IRS.gov/Spanish (Espa├▒ol) 
+ΓÇó IRS.gov/Chinese (Σ╕¡µûç) 
+ΓÇó IRS.gov/Korean (φò£Ω╡¡∞û┤) 
+ΓÇó IRS.gov/Russian (P╤â╤ü╤ü╨║╨╕╨╣) 
+ΓÇó IRS.gov/Vietnamese (Tiß║┐ng Viß╗çt) 
+Tax Guide for 
+Small Business
+(For Individuals Who Use 
+Schedule C)
+Publication 334
+For use in preparing
+2025 Returns
+Publication 334 (2025)  Catalog Number 11063P
+Feb 10, 2026
+Department of the Treasury  Internal Revenue Service  www.irs.gov
+
+
+
+--- Page 2 ---
+Contents
+WhatΓÇÖs New for 2025 . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4
+WhatΓÇÖs New for 2026 . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5
+Reminders . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5
+Photographs of Missing Children . . . . . . . . . . . . . . . . . . .
+5
+Chapter 1. Filing and Paying Business Taxes . . . . . . . . . . .
+6
+Identification Numbers
+. . . . . . . . . . . . . . . . . . . . . .
+6
+Income Tax . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+7
+Self-Employment (SE) Tax
+. . . . . . . . . . . . . . . . . . . .
+9
+Employment Taxes . . . . . . . . . . . . . . . . . . . . . . . .
+11
+Excise Taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+11
+Information Returns
+. . . . . . . . . . . . . . . . . . . . . . .
+12
+Chapter 2. Accounting Periods and Methods
+. . . . . . . . . .
+13
+Accounting Periods
+. . . . . . . . . . . . . . . . . . . . . . .
+13
+Accounting Methods . . . . . . . . . . . . . . . . . . . . . . .
+14
+Chapter 3. Dispositions of Business Property
+. . . . . . . . .
+17
+What Is a Disposition of Property? . . . . . . . . . . . . . .
+18
+How Do I Figure a Gain or Loss?
+. . . . . . . . . . . . . . .
+18
+Where Do I Report Gains and Losses? . . . . . . . . . . . .
+19
+Chapter 4. General Business Credits . . . . . . . . . . . . . . .
+19
+Business Credits . . . . . . . . . . . . . . . . . . . . . . . . .
+19
+How To Claim the Credit . . . . . . . . . . . . . . . . . . . . .
+21
+Chapter 5. Business Income
+. . . . . . . . . . . . . . . . . . . .
+21
+Kinds of Income
+. . . . . . . . . . . . . . . . . . . . . . . . .
+21
+Items That Are Not Income . . . . . . . . . . . . . . . . . . .
+25
+Guidelines for Selected Occupations
+. . . . . . . . . . . .
+26
+Accounting for Your Income
+. . . . . . . . . . . . . . . . . .
+28
+Chapter 6. How To Figure Cost of Goods Sold
+. . . . . . . . .
+28
+Figuring Cost of Goods Sold on Schedule C, Lines 
+35 Through 42 . . . . . . . . . . . . . . . . . . . . . . . . .
+28
+Chapter 7. Figuri
+
+
+--- Page 3 ---
+activity is a trade or business. You do not need to actually 
+make a profit to be in a trade or business as long as you 
+have a profit motive. You do need to make ongoing efforts 
+to further the interests of your business.
+Limited liability company (LLC). An LLC is an entity 
+formed under state law by filing articles of organization. 
+Generally, for income tax purposes, a single-member LLC 
+is disregarded as an entity separate from its owner and 
+reports its income and deductions on its ownerΓÇÖs federal 
+income tax return. For example, if the single-member LLC 
+is not engaged in farming and the owner is an individual, 
+they may use Schedule C (Form 1040).
+Sole proprietor. A sole proprietor is someone who owns 
+an unincorporated business by themselves. You are also a 
+sole proprietor for income tax purposes if you are an indi-
+vidual and the sole member of a domestic LLC unless you 
+elect to have the LLC treated as a corporation.
+Independent contractor. People such as doctors, den-
+tists, veterinarians, lawyers, accountants, contractors, 
+subcontractors, public stenographers, or auctioneers who 
+are in an independent trade, business, or profession in 
+which they offer their services to the general public are 
+generally independent contractors. However, whether they 
+are independent contractors or employees depends on 
+the facts in each case. The general rule is that an individ-
+ual is an independent contractor if the person paying for 
+the work has the right to control or to direct only the result 
+of the work and not how it will be done. The earnings of a 
+person who is working as an independent contractor are 
+subject to self-employment tax. For more information on 
+determining whether you are an employee or independent 
+contractor, see Pub. 15-A, EmployerΓÇÖs Supplemental Tax 
+Guide.
+Are You a Statutory Employee?
+A statutory employee has a checkmark in box 13 of their 
+Form W-2, Wage and Tax Statement. Statutory employees 
+use Schedule C (Form 1040) to report their w
+
+
+--- Page 4 ---
+Getting tax forms, instructions, and publications. Go 
+to IRS.gov/Forms to download current and prior-year 
+forms, instructions, and publications.
+Ordering tax forms, instructions, and publications. 
+Go to IRS.gov/OrderForms to order current forms, instruc-
+tions, and publications; call 800-829-3676 to order 
+prior-year forms and instructions. The IRS will process 
+your order for forms and publications as soon as possible. 
+DonΓÇÖt resubmit requests youΓÇÖve already sent us. You can 
+get forms and publications faster online.
+WhatΓÇÖs New for 2025
+The following are some of the tax changes for 2025.
+Maximum net earnings. The maximum net self-employ-
+ment earnings subject to the social security part of the 
+self-employment tax is $176,100 for 2025. There is no 
+maximum limit on earnings subject to the Medicare part.
+Bonus depreciation. A 100% additional first-year depre-
+ciation deduction is allowed for certain qualified property 
+acquired after January 19, 2025. However, you may in-
+stead elect to claim 40% (60% for property with a long 
+production period and certain aircraft) additional first-year 
+depreciation deduction for certain property placed in serv-
+ice after January 19, 2025. See the Instructions for Form 
+4562 for more information.
+Standard mileage rate. For 2025, the standard mileage 
+rate for the cost of operating your car, van, pickup, or 
+panel truck for each mile of business use during 2025 in-
+creased to 70 cents a mile.
+For more information, see Car and Truck Expenses in 
+chapter 8.
+No tax on qualified overtime. Beginning in 2025, if you 
+earned qualified overtime pay, you may be eligible to de-
+duct up to $12,500 ($25,000 if married filing jointly) of your 
+qualified overtime compensation. The deduction is 
+claimed on Schedule 1-A (Form 1040), not on your 
+Schedule C (Form 1040). See the Instructions for Sched-
+ule 1-A (Form 1040), which are included in the Instructions 
+for Form 1040, for more information.
+No tax on qualified tips. Beginning in 2025, you
+
+
+--- Page 5 ---
+which the cost of section 179 property placed in service 
+during the tax year exceeds $4 million. See the Instruc-
+tions for Form 4562 for more information.
+No tax on car loan interest. Beginning in 2025, you 
+may be able to deduct qualified passenger vehicle loan in-
+terest you paid or accrued during the year. See the In-
+structions for Schedule 1-A (Form 1040), which are inclu-
+ded in the Instructions for Form 1040, and Interest on car 
+loans, later, for more information.
+Commercial clean vehicle credit. Businesses that buy 
+a qualified commercial clean vehicle may qualify for a 
+clean vehicle tax credit. P.L. 119-21, section 70503, 
+amended section 45W to eliminate the credit for vehicles 
+acquired after September 30, 2025. See Form 8936 and 
+its instructions for more information.
+WhatΓÇÖs New for 2026
+The following are some of the tax changes for 2026. For 
+information on other changes, go to IRS.gov.
+Maximum net earnings. The maximum net self-employ-
+ment earnings subject to the social security part of the 
+self-employment tax is $184,500 for 2026.
+Standard mileage rate. For 2026, the standard mileage 
+rate for the cost of operating your car, van, pickup, or 
+panel truck for each mile of business use is 72.5 cents a 
+mile.
+Excess business loss limitations made permanent. 
+P.L. 119-21, commonly known as the OBBBA, section 
+70601, permanently extends the disallowance of a deduc-
+tion for excess business losses. The threshold for allowa-
+ble deductions is indexed for inflation for tax years begin-
+ning after 2025. See the Instructions for Form 461.
+Information reporting threshold for certain payees. 
+For reportable payments made after 2025, the threshold 
+increases to $2,000 for information reporting as well as for 
+backup withholding. See section 6041(a).
+Qualified business income deduction (QBI).  P.L. 
+119-21, section 70105, makes the 20% QBI deduction 
+permanent for qualified active trades or businesses. In-
+come thresholds for QBI deduction limitations have als
+
+
+--- Page 6 ---
+1-800-THE-LOST (1-800-843-5678) if you recognize a 
+child.
+1.
+Filing and Paying 
+Business Taxes
+Introduction
+This chapter explains the business taxes you may have to 
+pay and the forms you may have to file. It also discusses 
+taxpayer identification numbers (TINs).
+Table 1-1 lists the benefits of filing electronically.
+Table 1-2 lists the federal taxes you may have to pay, 
+due dates, and the forms you use to report them.
+Table 1-3 provides checklists that highlight the typical 
+forms and schedules you may need to file if you go out of 
+business.
+You may want to get Pub. 509, Tax Calendars. It 
+has tax calendars that tell you when to file returns 
+and make tax payments.
+Useful Items
+You may want to see:
+Publication
+505 Tax Withholding and Estimated Tax
+583 Starting a Business and Keeping Records
+Form (and Instructions)
+461 Limitation on Business Losses
+1040 U.S. Individual Income Tax Return
+1040-SR U.S. Tax Return for Seniors
+1040-ES Estimated Tax for Individuals
+7205 Energy Efficient Commercial Buildings 
+Deduction
+Sch C (Form 1040) Profit or Loss From Business
+Sch SE (Form 1040) Self-Employment Tax
+See chapter 12 for information about getting publications 
+and forms.
+Identification Numbers
+This section explains three types of TINs, who needs 
+them, when to use them, and how to get them.
+Social security number (SSN). Generally, use your 
+SSN as your TIN. You must report this number on each of 
+TIP
+  505
+  583
+  461
+  1040
+  1040-SR
+  1040-ES
+  7205
+  Sch C (Form 1040)
+  Sch SE (Form 1040)
+your individual income tax forms, such as Form 1040 and 
+its schedules.
+To apply for an SSN, use Form SS-5, Application for a 
+Social Security Card. This form is available at Social Se-
+curity 
+Administration 
+(SSA) 
+offices 
+or 
+by 
+calling 
+800-772-1213. It is also available from the SSA website at 
+SSA.gov/forms/ss-5. 
+Individual taxpayer identification number (ITIN). The 
+IRS will issue an ITIN if you are a nonresident or resident 
+alien and you do not have and are not eligibl
+
+
+--- Page 7 ---
+the returns and statements. See the General Instructions 
+for Certain Information Returns.
+Employee. If you have employees, you must get an 
+SSN from each of them. Record the name and SSN of 
+each employee exactly as they are shown on the employ-
+eeΓÇÖs social security card. If the employeeΓÇÖs name is not 
+correct as shown on the card, the employee should re-
+quest a new card from the SSA. This may occur if the em-
+ployeeΓÇÖs name was changed due to marriage or divorce. 
+See Pub. 15.
+Form W-4, EmployeeΓÇÖs Withholding Allowance Certifi-
+cate, is completed by each employee so the correct fed-
+eral income tax can be withheld from their pay.
+If your employee does not have an SSN, they should 
+file Form SS-5 with the SSA.
+Other payee. If you make payments to someone who 
+is not your employee and you must report the payments 
+on an information return, get that personΓÇÖs SSN. If you 
+must report payments to an organization, such as a corpo-
+ration or partnership, you must get its EIN.
+To get the payeeΓÇÖs SSN or EIN, use Form W-9, Re-
+quest for Taxpayer Identification Number and Certification.
+A payee who does not provide you with an identification 
+number may be subject to backup withholding. For infor-
+mation on backup withholding, see the Instructions for the 
+Requester of Form W-9 and the General Instructions for 
+Certain Information Returns.
+Income Tax
+This part explains whether you have to file an income tax 
+return and when you file it. It also explains how you pay 
+the tax.
+Do I Have To File an Income Tax 
+Return?
+You have to file an income tax return for 2025 if your net 
+earnings from self-employment were $400 or more. If your 
+net earnings from self-employment were less than $400, 
+you still have to file an income tax return if you meet any 
+other filing requirement listed in the Instructions for Form 
+1040.
+How Do I File?
+File your income tax return on Form 1040 or 1040-SR 
+and attach Schedule C (Form 1040). Enter the net profit 
+or loss from Schedule C (Form 1040) on S
+
+
+--- Page 8 ---
+support, including past-due support owed to any Indian 
+tribe or tribal organization. You will be notified if the refund 
+you claimed has been offset against your debts. You may 
+file an injured spouse claim on Form 8379, Injured Spouse 
+Allocation, or Form 8857, Request for Innocent Spouse 
+Relief, to recover part or all of a joint refund transferred to 
+pay the separate liabilities of your spouse.
+Refund inquiries. You can check the status of your re-
+fund if it has been at least 24 hours (4 weeks if you mailed 
+a paper return) from the date you filed your return. Be sure 
+to have a copy of your tax return available because you 
+will need to know the filing status, the first SSN shown on 
+the return, and the exact whole-dollar amount of the re-
+fund. To check on your refund, do one of the following.
+ΓÇó Go to IRS.gov/Refunds.
+ΓÇó Download the free IRS2Go app to your smart phone 
+and use it to check your refund status.
+ΓÇó Call 800-829-1954 for automated refund information 
+and follow the recorded instructions.
+The IRS canΓÇÖt issue refunds before mid-February 2026 
+for returns that claimed the earned income credit or the 
+additional child tax credit. This applies to the entire refund, 
+not just the portion associated with these credits.
+Balance due and electronic payments. If your return 
+shows that you owe tax, you must pay it by the due date of 
+your return (without regard to any extension to file) to 
+avoid late-payment penalties and interest. For calen-
+dar-year 2025, pay by April 15, 2026. The IRS recom-
+mends paying electronically whenever possible. Options 
+to pay electronically include using your bank account with 
+Direct Pay, your debit or credit card, your digital wallet, or 
+your IRS Online Account. Go to IRS.gov/Payments to see 
+all your payment options.
+Using an Authorized IRS e-file Provider
+Many tax professionals can electronically file paperless re-
+turns for their clients. You have two options.
+1. You can prepare your return, take it to an authorized 
+IRS
+
+
+======================================================================
+FILE: p505.pdf
+Pages: 48
+======================================================================
+
+--- Page 1 ---
+Introduction
+The federal income tax is a pay-as-you-go tax. 
+You must pay the tax as you earn or receive in-
+come during the year. There are two ways to 
+pay as you go.
+ΓÇó
+Withholding. If you are an employee, your 
+employer probably withholds income tax 
+from your pay. In addition, tax may be with-
+held from certain other income, such as 
+pensions, bonuses, commissions, and 
+gambling winnings. The amount withheld is 
+paid to the IRS in your name.
+ΓÇó
+Estimated tax. If you donΓÇÖt pay your tax 
+through withholding or donΓÇÖt pay enough 
+tax that way, you might have to pay estima-
+ted tax. People who are in business for 
+themselves will generally have to pay their 
+tax this way. You may have to pay estima-
+ted tax if you receive income such as divi-
+dends, interest, capital gains, rents, and 
+royalties. Estimated tax is used to pay not 
+only income tax but other taxes such as 
+self-employment tax and alternative mini-
+mum tax.
+This publication explains both of these meth-
+ods. It also explains how to take credit on your 
+return for the tax that was withheld and for your 
+estimated tax payments.
+If you didnΓÇÖt pay enough tax during the year, 
+either through withholding or by making estima-
+ted tax payments, you may have to pay a pen-
+alty. Generally, the IRS can figure this penalty 
+for you.
+Nonresident 
+aliens. Before 
+completing 
+Form W-4, nonresident alien employees should 
+see Notice 1392, Supplemental Form W-4 In-
+structions for Nonresident Aliens (Rev. January 
+2020), which provides nonresident aliens who 
+are not exempt from withholding instructions for 
+completing Form W-4, and the Instructions for 
+Form 8233, Exemption From Withholding on 
+Compensation for Independent (and Certain 
+Dependent) Personal Services of a Nonresident 
+Alien Individual. Also, see chapter 8 of Pub. 
+519.
+Final regulations on income tax with-
+holding. Final regulations on income tax with-
+holding were published in the Federal Register 
+on October 6, 2020 (at 85 FR 63019). The regu-
+lations impl
+
+
+--- Page 2 ---
+Getting answers to your tax questions. 
+If you have a tax question not answered by this 
+publication or the How To Get Tax Help section 
+at the end of this publication, go to the IRS In-
+teractive Tax Assistant page at IRS.gov/
+Help/ITA where you can find topics by using the 
+search feature or viewing the categories listed.
+Getting tax forms, instructions, and pub-
+lications. Go to IRS.gov/Forms to download 
+current and prior-year forms, instructions, and 
+publications.
+Ordering tax forms, instructions, and 
+publications. Go to IRS.gov/OrderForms to or-
+der current forms, instructions, and publica-
+tions; call 800-829-3676 to order prior-year 
+forms and instructions. The IRS will process 
+your order for forms and publications as soon 
+as possible. DonΓÇÖt resubmit requests youΓÇÖve al-
+ready sent us. You can get forms and publica-
+tions faster online.
+WhatΓÇÖs New for 2026
+Use your 2025 tax return as a guide in figuring 
+your 2026 estimated tax, but be sure to 
+consider the following.
+Standard deduction amount increased. For 
+2026, the standard deduction amount has been 
+increased for all filers, and the amounts are as 
+follows.
+ΓÇó
+Single or Married filing sepa-
+ratelyΓÇö$16,100.
+ΓÇó
+Married filing jointly or Qualifying surviving 
+spouseΓÇö$32,200.
+ΓÇó
+Head of householdΓÇö$24,150.
+Retirement savings contribution credit in-
+come limits increased. In order to claim this 
+credit for 2026, your MAGI must not be more 
+than $40,250 ($80,500 if Married filing jointly; 
+$60,375 if Head of household).
+Adoption credit or exclusion. The maximum 
+adoption credit or exclusion for employer-provi-
+ded adoption benefits has increased to 
+$17,670. In order to claim either the credit or ex-
+clusion, your MAGI must be less than $305,080. 
+For 2026, up to $5,120 of the adoption credit is 
+now refundable. The refundable portion is de-
+termined per child.
+Changes to QBID. Recent legislation made 
+the qualified business income deduction (QBID) 
+permanent. In addition, beginning in 2026, if 
+you have a min
+
+
+--- Page 3 ---
+withhold social security tax up to the annual 
+limit. The annual limit is $184,500 in 2026.
+Form 1040-SS filers. The Estimated Tax 
+Worksheet for filers of Form 1040-SS is inclu-
+ded on the Form 1040-ES. See Form 1040-ES 
+and its instructions for more information.
+Trump account and new Form 4547. Recent 
+legislation allows parents, guardians, and other 
+authorized individuals to elect to establish a 
+new type of individual retirement account, 
+called a Trump account, for the exclusive benefit 
+of certain children. If the child was born after 
+2024 and before 2029, is a U.S. citizen, and 
+meets certain other requirements, the author-
+ized individual may also elect to receive a 
+$1,000 pilot program contribution to the childΓÇÖs 
+Trump account. Both elections can be made on 
+Form 4547, which can be filed at the same time 
+as the authorized individualΓÇÖs 2026 income tax 
+return. For more information on Trump ac-
+counts, and to learn how to make these elec-
+tions, see Form 4547 and its instructions.
+Expired individual taxpayer identification 
+number (ITIN) and renewal. If you have an 
+ITIN that you havenΓÇÖt included on a tax return in 
+the last 3 consecutive years, it may be expired 
+and you may need to renew it. If your ITIN has 
+expired and you donΓÇÖt have an SSN, you can 
+make estimated tax payments before you renew 
+your ITIN. To renew your ITIN, and for more in-
+formation, see the Instructions for Form W-7.
+Advance payments of the premium tax 
+credit. If you buy health insurance through the 
+Health Insurance Marketplace, you may be eli-
+gible to have advance payments of the premium 
+tax credit paid on your behalf to the insurance 
+company. Receiving too little or too much in ad-
+vance will affect your refund or balance due. 
+Promptly report changes in your income or fam-
+ily size to your Marketplace. See Form 8962 
+and its instructions for more information.
+No tax on tips. You may be eligible to take a 
+deduction for qualified tips paid to you in 2026. 
+You canΓÇÖt deduct
+
+
+--- Page 4 ---
+Useful Items
+You may want to see:
+Form (and Instructions)
+W-4 EmployeeΓÇÖs Withholding Certificate
+W-4P Withholding Certificate for Periodic 
+Pension or Annuity Payments
+W-4R Withholding Certificate for 
+Nonperiodic Payments and Eligible 
+Rollover Distributions
+W-4S Request for Federal Income Tax 
+Withholding From Sick Pay
+W-4V Voluntary Withholding Request
+See How To Get Tax Help at the end of this pub-
+lication for information about getting these pub-
+lications and forms.
+Salaries and Wages
+Income tax is withheld from the pay of most em-
+ployees. Your pay includes your regular pay, bo-
+nuses, commissions, and vacation allowances. 
+It also includes reimbursements and other ex-
+pense allowances paid under a nonaccountable 
+plan. See Supplemental Wages, later, for defini-
+tions of accountable and nonaccountable plans.
+If your income is low enough that you wonΓÇÖt 
+have to pay income tax for the year, you may be 
+exempt from withholding. This is explained un-
+der Exemption From Withholding, later.
+You can ask your employer to withhold in-
+come tax from noncash wages and other wages 
+not subject to withholding. If your employer 
+does not agree to withhold tax, or if not enough 
+is withheld, you may have to pay estimated tax, 
+as discussed in chapter 2.
+Military retirees. Military retirement pay is 
+treated in the same manner as regular pay for 
+income tax withholding purposes, even though 
+it is treated as a pension or annuity for other tax 
+purposes.
+Household workers. If you are a household 
+worker, you can ask your employer to withhold 
+income tax from your pay. A household worker 
+is an employee who performs household work 
+in a private home, local college club, or local fra-
+ternity or sorority chapter.
+Tax is withheld only if you want it withheld 
+and your employer agrees to withhold it. If you 
+donΓÇÖt have enough income tax withheld, you 
+may have to pay estimated tax, as discussed in 
+chapter 2.
+Farmworkers. Generally, income tax is with-
+held from your cash wages f
+
+
+--- Page 5 ---
+you donΓÇÖt have to furnish a new Form W-4 for 
+2026 if after the change you will have enough 
+tax withheld for the remainder of 2026 to cover 
+your income tax liability. However, if you will 
+have enough tax withheld for 2026 to cover your 
+income tax liability after a change or changes in 
+status, but your filing status changes from Mar-
+ried filing jointly (or Qualifying surviving spouse) 
+to Head of household or to Single (or Married 
+filing separately) or from Head of household to 
+Single (or Married filing separately) during 
+2026, you are required to furnish your employer 
+a new Form W-4 for 2027 by December 1, 
+2026, or, if later, 10 days after the date of the 
+change in filing status, to take effect in 2027.
+Otherwise, if you want to change your with-
+holding for any other reason, you can generally 
+do that whenever you wish. See Table 1-1 for 
+examples of personal and financial changes 
+you should consider.
+Personal and Financial 
+Changes
+Table 1-1.
+Factor
+Examples
+Lifestyle 
+change
+Marriage
+Divorce
+Birth or adoption of child
+Purchase of a new home
+Retirement
+Filing chapter 11 bankruptcy
+Wage income
+You or your spouse start or 
+stop working or start or stop a 
+second job
+Change in the 
+amount of 
+taxable 
+income not 
+subject to 
+withholding
+Interest income
+Dividends
+Capital gains
+Self-employment income
+IRA (including certain Roth 
+IRA) distributions
+Change in the 
+amount of 
+adjustments to 
+income
+IRA deduction
+Student loan interest
+deduction
+Alimony expense
+Change in the 
+amount of 
+itemized 
+deductions or 
+tax credits
+Medical expenses
+Taxes
+Interest expense
+Gifts to charity
+Dependent care expenses
+Education credit
+Child tax credit
+Earned income credit
+If you change the amount of your withhold-
+ing, you can request that your employer with-
+hold using the Cumulative Wage Method, later.
+Checking Your Withholding
+After you have given your employer a Form 
+W-4, you can check to see whether the amount 
+of tax withheld from your pay is too much or too 
+little. If
+
+
+--- Page 6 ---
+How Do You Decrease Your 
+Withholding?
+If your completed Worksheets 1-3 and 1-5 show 
+that you may have more tax withheld than your 
+projected tax liability for 2026, you may be able 
+to decrease your withholding by following the in-
+structions in Worksheet 1-5.
+Tax Credits
+Table 1-2 shows many of the tax credits you 
+may be able to use to decrease your withhold-
+ing. For a complete list of credits you may be 
+able to claim, see the 2025 Instructions for 
+Form 1040.
+Step 3 of Form W-4 provides instructions for 
+determining the amount of the child tax credit 
+and the credit for other dependents. You can 
+also include other tax credits in Step 3 of Form 
+W-4. To do so, complete Worksheet 1-6 and 
+add the amount from line 11 of that worksheet 
+to the amount you are entering for other de-
+pendents in Step 3 of Form W-4. Including 
+these credits will increase your paycheck and 
+reduce the amount of any refund you may re-
+ceive when you file your tax return.
+When Will Your New Form W-4 Go 
+Into Effect?
+If the change is for the current year, your em-
+ployer must put your new Form W-4 into effect 
+no later than the start of the first payroll period 
+ending on or after the 30th day after the day on 
+which you give your employer your revised 
+Form W-4.
+If the change is for next year, your new Form 
+W-4 wonΓÇÖt take effect until next year.
+Form W-4P
+When you first began receiving your pension, 
+you told the payer how much tax to withhold, if 
+any, by completing Form W-4P, Withholding 
+Certificate for Pension or Annuity Payments (or 
+similar form). However, if your retirement pay is 
+from the military or certain deferred compensa-
+tion plans, you completed Form W-4 instead of 
+Form W-4P. You completed either form based 
+on your projected income at that time. If you are 
+returning to the workforce, your new Form W-4 
+(given to your employer) and your Form W-4 or 
+W-4P (on file with your pension plan) must work 
+together to determine the correct amount of 
+withholding for your new 
+
+
+--- Page 7 ---
+be for personal or financial reasons. You may 
+need more tax withheld, or you may need less.
+Getting the Right Amount
+of Tax Withheld
+In most situations, the tax withheld from your 
+pay will be close to the tax you figure on your re-
+turn if you follow these two rules.
+ΓÇó
+You accurately complete all the Form W-4 
+worksheets that apply to you.
+ΓÇó
+You give your employer a new Form W-4 
+when changes occur.
+But because the worksheets and withhold-
+ing methods donΓÇÖt account for all possible situa-
+tions, you may not be getting the right amount 
+withheld. This is most likely to happen in the fol-
+lowing situations.
+ΓÇó
+You are married and both you and your 
+spouse work.
+ΓÇó
+You have more than one job at a time.
+ΓÇó
+You have nonwage income, such as inter-
+est, dividends, alimony, or unemployment 
+compensation.
+ΓÇó
+You will owe additional amounts with your 
+return.
+ΓÇó
+Your withholding is based on obsolete 
+Form W-4 information for a substantial part 
+of the year.
+ΓÇó
+You work only part of the year.
+ΓÇó
+You change the amount of your withholding 
+during the year.
+ΓÇó
+You are subject to Additional Medicare Tax 
+or NIIT. If you anticipate liability for Addi-
+tional Medicare Tax or NIIT, you may re-
+quest that your employer withhold an addi-
+tional amount of income tax withholding on 
+Form W-4.
+If any of these situations apply to you, you 
+can use the Tax Withholding Estimator at 
+IRS.gov/W4App to see if you need to change 
+your withholding.
+If you have self-employment income or owe 
+self-employment tax, you should use the work-
+sheets in this publication to determine if you 
+should pay estimated tax.
+Part-Year Method
+If you work only part of the year and your em-
+ployer agrees to use the part-year withholding 
+method, less tax will be withheld from each 
+wage payment than would be withheld if you 
+worked all year. To be eligible for the part-year 
+method, you must meet both of the following re-
+quirements.
+ΓÇó
+You must use the calendar year (the 12 
+months from January 1 through December 
+31) as 
+
+
+--- Page 8 ---
+income tax, not to social security or Medicare 
+tax.
+You can claim exemption from withholding 
+for 2026 only if both of the following situations 
+apply.
+ΓÇó
+For 2025, you had a right to a refund of all 
+federal income tax withheld because you 
+had no tax liability.
+ΓÇó
+For 2026, you expect a refund of all federal 
+income tax withheld because you expect to 
+have no tax liability.
+Use Figure 1-A to help you decide whether 
+you can claim exemption from withholding. 
+DonΓÇÖt use Figure 1-A if you:
+ΓÇó
+Are 65 or older,
+ΓÇó
+Are blind,
+ΓÇó
+Will itemize deductions on your 2026 re-
+turn, or
+ΓÇó
+Will claim any tax credits on your 2026 re-
+turn.
+These situations are discussed later.
+Students. If you are a student, you are not au-
+tomatically exempt. If you work only part time or 
+during the summer, you may qualify for exemp-
+tion from withholding.
+Example 1. You are a high school student 
+and expect to earn $2,500 from a summer job. 
+You donΓÇÖt expect to have any other income dur-
+ing the year, and your parents will be able to 
+claim you as a dependent on their tax return. 
+You worked last summer and had $375 federal 
+income tax withheld from your pay. The entire 
+$375 was refunded when you filed your 2025 re-
+turn. Using Figure 1-A, you find that you can 
+claim exemption from withholding.
+Example 2. The facts are the same as in 
+Example 1, except that you also have a savings 
+account and expect to have $475 interest in-
+come during the year. Using Figure 1-A, you 
+find that you canΓÇÖt claim exemption from with-
+holding because your unearned income will be 
+more than $450 and your total income will be 
+more than $1,350.
+You may have to file a tax return, even if 
+you are exempt from withholding. See 
+Pub. 501 to see whether you must file a 
+return.
+CAUTION
+!
+Figure 1-A. Exemption From Withholding on Form W-4
+For 2025, did you have a
+right to a refund of ALL
+federal income tax withheld
+because you had NO tax
+liability?
+For 2026, will
+someone (such as
+your parent) be able
+to claim you as a
+depe
+
+
+======================================================================
+FILE: p526.pdf
+Pages: 40
+======================================================================
+
+--- Page 1 ---
+Get forms and other information faster and easier at:
+ΓÇó IRS.gov (English) 
+ΓÇó IRS.gov/Spanish (Espa├▒ol) 
+ΓÇó IRS.gov/Chinese (Σ╕¡µûç) 
+ΓÇó IRS.gov/Korean (φò£Ω╡¡∞û┤) 
+ΓÇó IRS.gov/Russian (P╤â╤ü╤ü╨║╨╕╨╣) 
+ΓÇó IRS.gov/Vietnamese (Tiß║┐ng Viß╗çt) 
+Charitable 
+Contributions
+Publication 526
+For use in preparing
+2025 Returns
+Publication 526 (2025)  Catalog Number 15050A
+Feb 5, 2026
+Department of the Treasury  Internal Revenue Service  www.irs.gov
+
+
+
+--- Page 2 ---
+Future Developments
+For the latest information about developments related to 
+Pub. 526 (such as legislation enacted after we release it), 
+go to IRS.gov/Pub526.
+WhatΓÇÖs New
+Deductibility of contributions to certain organiza-
+tions serving members of the Armed Forces. Begin-
+ning in 2025, a charitable contribution made to any feder-
+ally chartered veteran service organization that is exempt 
+from taxation under section 501(c)(19) of the Internal Rev-
+enue Code is deductible for federal income tax purposes. 
+You can now deduct charitable contributions to these or-
+ganizations even if their membership is not limited primar-
+ily to wartime veterans.
+Qualified charitable distribution one-time election. 
+You can elect to make a one-time distribution up to 
+$54,000 from an individual retirement arrangement to 
+charities through a charitable remainder annuity trust, a 
+charitable remainder unitrust, or a charitable gift annuity if 
+it is funded only by qualified charitable distributions. See 
+Pub. 590-B, Distributions from Individual Retirement Ar-
+rangements (IRAs), for more information.
+Reminders
+Disallowance of deduction for certain conservation 
+contributions by partnerships and S corporations. If 
+you are an ultimate member of a partnership or an S cor-
+poration, and the amount of the partnership or S corpora-
+tionΓÇÖs qualified conservation contribution exceeds 2.5 
+times the sum of each ultimate memberΓÇÖs relevant basis, 
+then the contribution is not treated as a qualified conser-
+vation contribution. Unless the conservation contribution 
+meets an exception, it will be disallowed. See Disallow-
+ance of deductions for certain conservation contributions 
+by partnerships or S corporations, later.
+Deduction over $5,000. You must complete Section B of 
+Form 8283 for each itemΓÇöor group of similar non-cash 
+itemsΓÇöfor which you claim a deduction of over $5,000 ex-
+cept as provided in Deductions Over $5,000, later. The or-
+ganization that received the property must complete and 
+
+
+
+--- Page 3 ---
+Forms (and Instructions)
+Schedule A (Form 1040) Itemized Deductions
+8283 Noncash Charitable Contributions
+See How To Get Tax Help near the end of this publication 
+for information about getting these publications and forms.
+Organizations That Qualify To 
+Receive Deductible 
+Contributions
+You can deduct your contributions only if you make them 
+to a qualified organization.
+How to check whether an organization can receive 
+deductible charitable contributions.  You can ask any 
+organization whether it is a qualified organization, and 
+most will be able to tell you. You can also check by going 
+to IRS.gov/TEOS. This online tool will enable you to 
+search for qualified organizations.
+Types of Qualified Organizations
+Generally, only the following types of organizations can be 
+qualified organizations.
+1. A community chest, corporation, trust, fund, or foun-
+dation organized or created in or under the laws of the 
+United States, any state, the District of Columbia, or 
+any possession of the United States (including Puerto 
+Rico). It must, however, be organized and operated 
+only for charitable, religious, scientific, literary, or edu-
+cational purposes, or for the prevention of cruelty to 
+children or animals. Certain organizations that foster 
+national or international amateur sports competition 
+also qualify.
+2. War veteransΓÇÖ organizations, including posts, auxilia-
+ries, trusts, or foundations organized in the United 
+States or any of its possessions (including Puerto 
+Rico). Also, federally chartered veteran service organ-
+izations that are exempt from taxation under section 
+501(c)(19) even if their membership is not limited pri-
+marily to wartime veterans.
+3. Domestic fraternal societies, orders, and associations 
+operating under the lodge system. (Your contribution 
+to this type of organization is deductible only if it is to 
+be used solely for charitable, religious, scientific, liter-
+ary, or educational purposes, or for the prevention of 
+cruelty to children or an
+
+
+--- Page 4 ---
+you must have income from sources in Mexico. The limits 
+described in Limits on Deductions, later, apply and are fig-
+ured using your income from Mexican sources.
+Israeli charities. Under the United States-Israel income 
+tax treaty, a contribution to an Israeli charitable organiza-
+tion is deductible if and to the extent the contribution 
+would have been treated as a charitable contribution if the 
+organization had been created or organized under U.S. 
+law. To deduct your contribution to an Israeli charity, you 
+must have income from sources in Israel. The limits de-
+scribed in Limits on Deductions, later, apply. The deduc-
+tion is also limited to 25% of your AGI from Israeli sources.
+Contributions You Can Deduct
+Generally, you can deduct contributions of money or prop-
+erty you make to, or for the use of, a qualified organization. 
+A contribution is ΓÇ£for the use ofΓÇ¥ a qualified organization 
+when it is held in a legally enforceable trust for the quali-
+fied organization or in a similar legal arrangement.
+The contributions must be made to a qualified organi-
+zation and not set aside for use by a specific person.
+If you give property to a qualified organization, you can 
+generally deduct the fair market value (FMV) of the prop-
+erty at the time of the contribution. See Contributions of 
+Property, later.
+Your deduction for charitable contributions generally 
+canΓÇÖt be more than 60% of your AGI, but in some cases 
+20%, 30%, or 50% limits may apply.
+Table 1 gives examples of contributions you can and 
+canΓÇÖt deduct.
+Contributions From Which You 
+Benefit
+If you receive a benefit as a result of making a contribution 
+to a qualified organization, you can deduct only the 
+amount of your contribution that is more than the value of 
+the benefit you receive. Also, see Contributions From 
+Which You Benefit under Contributions You CanΓÇÖt Deduct, 
+later.
+If you pay more than FMV to a qualified organization for 
+goods or services, the excess may be a charitable contri-
+bution. For th
+
+
+--- Page 5 ---
+Example 2.  At a fundraising auction conducted by a 
+charity, you pay $600 for a weekΓÇÖs stay at a beach house. 
+The amount you pay is no more than the fair rental value. 
+You havenΓÇÖt made a deductible charitable contribution.
+Charity benefit events. If you pay a qualified organiza-
+tion more than FMV for the right to attend a charity ball, 
+banquet, show, sporting event, or other benefit event, you 
+can deduct only the amount that is more than the value of 
+the privileges or other benefits you receive.
+If there is an established charge for the event, that 
+charge is the value of your benefit. If there is no estab-
+lished charge, the reasonable value of the right to attend 
+the event is the value of your benefit. Whether you use the 
+tickets or other privileges has no effect on the amount you 
+can deduct. However, if you return the ticket to the quali-
+fied organization for resale, you can deduct the entire 
+amount you paid for the ticket.
+Caution: Even if the ticket or other evidence of pay-
+ment indicates that the entire price of admission for the 
+special event is a ΓÇ£contribution,ΓÇ¥ this doesnΓÇÖt mean you can 
+deduct the entire amount. If the ticket shows both the price 
+of admission and the established charge, and the cost of 
+admission exceeds the established charge, you can de-
+duct the difference between the two amounts.
+Example.  You pay $40 to see a special showing of a 
+movie for the benefit of a qualified organization. Printed on 
+the ticket is ΓÇ£ContributionΓÇö$40.ΓÇ¥ If the regular price for the 
+movie is $8, your contribution is $32 ($40 payment ΓêÆ $8 
+regular price).
+State or local tax credit.  If you make a payment or 
+transfer property to or for the use of a qualified organiza-
+tion and receive or expect to receive a state or local tax 
+credit in return, then the amount treated as a charitable 
+contribution deduction is reduced by the amount of the 
+state or local tax credit you receive or expect to receive in 
+consideration for your payment or transfer, but
+
+
+--- Page 6 ---
+(excluding any allocated overhead) isnΓÇÖt more than 
+$13.60.
+Token items.  You donΓÇÖt have to reduce your contribution 
+by the value of any benefit you receive if both of the follow-
+ing are true.
+1. You receive only a small item or other benefit of token 
+value.
+2. The qualified organization correctly determines that 
+the value of the item or benefit you received isnΓÇÖt sub-
+stantial and informs you that you can deduct your pay-
+ment in full.
+The organization determines whether the value of an item 
+or benefit is substantial by using Revenue Procedures 
+90-12 and 92-49 and the inflation adjustment in Revenue 
+Procedure 2024-40.
+Written statement.  A qualified organization must give 
+you a written statement if you make a payment of more 
+than $75 that is partly a contribution and partly for goods 
+or services. The statement must say you can deduct only 
+the amount of your payment that is more than the value of 
+the goods or services you received. It must also give you a 
+good faith estimate of the value of those goods or serv-
+ices.
+The organization can give you the statement either 
+when it solicits or when it receives the payment from you.
+Exception.  An organization wonΓÇÖt have to give you 
+this statement if one of the following is true.
+1. The organization is:
+a. A governmental organization described in (5) un-
+der Types of Qualified Organizations, earlier, or
+b. An organization formed only for religious purpo-
+ses, and the only benefit you receive is an intangi-
+ble religious benefit (such as admission to a reli-
+gious ceremony) that generally isnΓÇÖt sold in 
+commercial transactions outside the donative con-
+text.
+2. You receive only items whose value isnΓÇÖt substantial, 
+as described under Token items, earlier.
+3. You receive only membership benefits that can be dis-
+regarded, as described under Membership fees or 
+dues, earlier.
+Expenses Paid for Student Living 
+With You
+You may be able to deduct some expenses of having a 
+student live with you. You can deduct qual
+
+
+--- Page 7 ---
+Expenses that donΓÇÖt qualify.  You canΓÇÖt deduct depreci-
+ation on your home, the FMV of lodging, and similar items 
+not considered amounts actually spent by you. Nor can 
+you deduct general household expenses, such as taxes, 
+insurance, and repairs.
+Reimbursed expenses.  In most cases, you canΓÇÖt 
+claim a charitable contribution deduction if you are com-
+pensated or reimbursed for any part of the costs of having 
+a student live with you. However, you may be able to claim 
+a charitable contribution deduction for the unreimbursed 
+portion of your expenses if you are reimbursed only for an 
+extraordinary or one-time item, such as a hospital bill or 
+vacation trip that you paid in advance at the request of the 
+studentΓÇÖs parents or the sponsoring organization.
+Mutual exchange program. You canΓÇÖt deduct the 
+costs of a foreign student living in your home under a mu-
+tual exchange program through which your child will live 
+with a family in a foreign country.
+Reporting expenses.  For a list of what you must file 
+with your return if you deduct expenses for a student living 
+with you, see Reporting expenses for student living with 
+you under How To Report, later.
+Out-of-Pocket Expenses in Giving 
+Services
+Although you canΓÇÖt deduct the value of your services 
+given to a qualified organization, you may be able to de-
+duct some amounts you pay in giving services to a quali-
+fied organization. The amounts must be:
+ΓÇó Unreimbursed;
+ΓÇó Directly connected with the services;
+ΓÇó Expenses you had only because of the services you 
+gave; and
+ΓÇó Not personal, living, or family expenses.
+Table 2 contains questions and answers that apply to 
+some individuals who volunteer their services. 
+Underprivileged youths selected by charity. You can 
+deduct reasonable unreimbursed out-of-pocket expenses 
+you pay to allow underprivileged youths to attend athletic 
+events, movies, or dinners. The youths must be selected 
+by a charitable organization whose goal is to reduce juve-
+nile delinquency. Your own 
+
+
+--- Page 8 ---
+Unreimbursed expenses that you canΓÇÖt deduct as chari-
+table contributions may be considered support provided 
+by you in determining whether you can claim the foster 
+child as a dependent. For details, see Pub. 501, Depend-
+ents, Standard Deduction, and Filing Information.
+Example.  You cared for a foster child because you 
+wanted to adopt the child, not to benefit the agency that 
+placed the child in your home. Your unreimbursed expen-
+ses arenΓÇÖt deductible as charitable contributions.
+Church deacon. You can deduct as a charitable contri-
+bution any unreimbursed expenses you have while in a 
+permanent diaconate program established by your 
+church. These expenses include the cost of vestments, 
+books, and transportation required in order to serve in the 
+program as either a deacon candidate or an ordained 
+deacon.
+Car expenses. You can deduct as a charitable contribu-
+tion any unreimbursed out-of-pocket expenses, such as 
+the cost of gas and oil, directly related to the use of your 
+car in giving services to a charitable organization. You 
+canΓÇÖt deduct general repair and maintenance expenses, 
+depreciation, registration fees, or the costs of tires or in-
+surance.
+If you donΓÇÖt want to deduct your actual expenses, you 
+can use a standard mileage rate of 14 cents a mile to fig-
+ure your contribution.
+You can deduct parking fees and tolls whether you use 
+your actual expenses or the standard mileage rate.
+You must keep reliable written records of your car ex-
+penses. For more information, see Car expenses under 
+Substantiation Requirements, later.
+Travel. Generally, you can claim a charitable contribution 
+deduction for travel expenses necessarily incurred while 
+you are away from home performing services for a quali-
+fied organization only if there is no significant element of 
+personal pleasure, recreation, or vacation in the travel. 
+This applies whether you pay the expenses directly or in-
+directly. You are paying the expenses indirectly if you 
+make a payment to the
+
+
+======================================================================
+FILE: p542.pdf
+Pages: 27
+======================================================================
+
+--- Page 1 ---
+Department of the Treasury
+Internal Revenue Service
+Publication 542
+(Rev. January 2024)
+Cat. No. 15072O
+Corporations
+Get forms and other information faster and easier at:
+ΓÇó IRS.gov (English) 
+ΓÇó IRS.gov/Spanish (Espa├▒ol) 
+ΓÇó IRS.gov/Chinese (Σ╕¡µûç) 
+ΓÇó IRS.gov/Korean (φò£Ω╡¡∞û┤) 
+ΓÇó IRS.gov/Russian (P╤â╤ü╤ü╨║╨╕╨╣) 
+ΓÇó IRS.gov/Vietnamese (Tiß║┐ng Viß╗çt) 
+Contents
+Future Developments . . . . . . . . . . . . . . . . . . . . . . . 2
+Photographs of Missing Children . . . . . . . . . . . . . . 2
+Introduction
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+Businesses Taxed as Corporations
+. . . . . . . . . . . . 2
+Property Exchanged for Stock . . . . . . . . . . . . . . . . 3
+Capital Contributions . . . . . . . . . . . . . . . . . . . . . . . 4
+Filing and Paying Income Taxes . . . . . . . . . . . . . . . 5
+Income Tax Return
+. . . . . . . . . . . . . . . . . . . . . . . 5
+Penalties
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Estimated Tax
+. . . . . . . . . . . . . . . . . . . . . . . . . . 6
+U.S. Real Property Interest
+. . . . . . . . . . . . . . . . . 7
+Estimated Tax Worksheet . . . . . . . . . . . . . . . . . . . . 7
+Accounting Methods
+. . . . . . . . . . . . . . . . . . . . . . . 8
+Accounting Periods
+. . . . . . . . . . . . . . . . . . . . . . . . 8
+Recordkeeping . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Income, Deductions, and Special Provisions . . . . . 9
+Costs of Going Into Business . . . . . . . . . . . . . . . . 9
+Related Persons . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Corporate Preference Items . . . . . . . . . . . . . . . . 10
+Dividends-Received Deduction
+. . . . . . . . . . . . . 10
+Extraordinary Dividends
+. . . . . . . . . . . . . . . . . . 11
+Below-Market Loans . . . . . . . . . . . . . . . . . . . . . 11
+Charitable Contributions
+. . . . . . . . . . . . . . . . . . 12
+Capital Losses . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Net Operating Losses . . . . . . . . . . . . . . . . . . . . 14
+At-Risk Limits . . . . . 
+
+
+--- Page 2 ---
+Future Developments
+For the latest information about developments related to 
+Pub. 542, such as legislation enacted after it was 
+published, go to IRS.gov/Pub542. For changes that may 
+affect the current tax year, see the Instructions for Form 
+1120 or the applicable instructions for the corporationΓÇÖs 
+tax return.
+What's New
+New corporate alternative minimum tax. For tax years 
+beginning after 2022, the Inflation Reduction Act of 2022 
+amended section 55 of the Internal Revenue Code to im-
+pose a new corporate alternative minimum tax (CAMT) 
+based on the adjusted financial statement income (AFSI) 
+of an applicable corporation. See Corporate Alternative 
+Minimum Tax (CAMT), later.
+Form 1120-W now historical. Form 1120-W, Estimated 
+Tax for Corporations, and the Instructions for Form 
+1120-W are now historical. The 2022 revisions were the 
+last revisions of both the form and its instructions. Prior 
+versions are available on IRS.gov.
+Photographs of Missing 
+Children
+The Internal Revenue Service is a proud partner with the 
+National Center for Missing & Exploited Children┬« 
+(NCMEC). Photographs of missing children selected by 
+the Center may appear in instructions on pages that would 
+otherwise be blank. You can help bring these children 
+home by looking at the photographs and calling 
+800-THE-LOST (800-843-5678) if you recognize a child.
+Introduction
+This publication discusses the general tax laws that apply 
+to ordinary domestic corporations. It provides supplemen-
+tal federal income tax information for corporations. It also 
+supplements the information provided in the Instructions 
+for Form 1120, U.S. Corporation Income Tax Return. How-
+ever, the information given does not cover every situation 
+and is not intended to replace the law or change its mean-
+ing.
+Comments and suggestions. We welcome your com-
+ments about this publication and suggestions for future 
+editions.
+You can send us comments through IRS.gov/
+FormComments. Or, you can write to:
+Internal Revenue Se
+
+
+--- Page 3 ---
+Business formed after 1996. The following businesses 
+formed after 1996 are taxed as corporations.
+ΓÇó A business formed under a federal or state law that re-
+fers to it as a corporation, body corporate, or body po-
+litic.
+ΓÇó A business formed under a state law that refers to it as 
+a joint-stock company or joint-stock association.
+ΓÇó An insurance company.
+ΓÇó Certain banks.
+ΓÇó A business wholly owned by a state or local govern-
+ment.
+ΓÇó A business specifically required to be taxed as a cor-
+poration by the Internal Revenue Code (for example, 
+certain publicly traded partnerships).
+ΓÇó Certain foreign businesses.
+ΓÇó Any other business that elects to be taxed as a corpo-
+ration.
+Limited liability company (LLC). An LLC may be clas-
+sified for federal income tax purposes as either a partner-
+ship, a corporation, or an entity disregarded as an entity 
+separate from its owner by applying the rules in Treasury 
+Regulations section 301.7701-3. An LLC can elect to be 
+treated as an association taxable as a corporation by filing 
+Form 8832, Entity Classification Election. See the Instruc-
+tions for Form 8832. For more information about LLCs, 
+see Pub. 3402, Taxation of Limited Liability Companies.
+S corporations. Some corporations may meet the quali-
+fications for electing to be S corporations. For information 
+on S corporations, see the Instructions for Form 1120-S.
+Personal service corporations. A corporation is a per-
+sonal service corporation if it meets all of the following re-
+quirements.
+1. Its principal activity during the ΓÇ£testing periodΓÇ¥ is per-
+forming personal services (defined later). Generally, 
+the testing period for any tax year is the prior tax year. 
+If the corporation has just been formed, the testing pe-
+riod begins on the first day of its tax year and ends on 
+the earlier of:
+a. The last day of its tax year, or
+b. The last day of the calendar year in which its tax 
+year begins.
+2. Its employee-owners substantially perform the serv-
+ices in (1) above. This requireme
+
+
+--- Page 4 ---
+Both the corporation and any person involved in a 
+nontaxable exchange of property for stock must 
+attach to their income tax returns for the year of 
+the exchange, the complete statement of all facts perti-
+nent to the exchange required by Treasury Regulations 
+section 1.351-3.
+Control of a corporation. To be in control of a corpora-
+tion, you or your group of transferors must own, immedi-
+ately after the exchange, at least 80% of the total com-
+bined voting power of all classes of stock entitled to vote 
+and at least 80% of the outstanding shares of each class 
+of nonvoting stock.
+Loss on exchange. If you have a loss from an exchange 
+and own, directly or indirectly, more than 50% of the cor-
+poration's stock, you cannot deduct the loss. For more in-
+formation, see Nondeductible Loss under Sales and Ex-
+changes Between Related Persons in chapter 2 of Pub. 
+544.
+Basis of stock or other property received. The basis 
+of the stock you receive is generally the adjusted basis of 
+the property you transfer. Increase this amount by any 
+amount treated as a dividend, plus any gain recognized 
+on the exchange. Decrease this amount by any cash you 
+received, the fair market value of any other property you 
+received, and any loss recognized on the exchange. Also 
+decrease this amount by the amount of any liability the 
+corporation or another party to the exchange assumed 
+from you, unless payment of the liability gives rise to a de-
+duction when paid.
+Further decreases may be required when the corpora-
+tion or another party to the exchange assumes from you a 
+liability that gives rise to a deduction when paid, if the ba-
+sis of the stock would otherwise be higher than its fair 
+market value on the date of the exchange. This rule does 
+not apply if the entity assuming the liability acquired either 
+substantially all of the assets or the trade or business with 
+which the liability is associated.
+The basis of any other property you receive is its fair 
+market value on the date o
+
+
+--- Page 5 ---
+Basis of each piece of property
+Bases of all properties (within that category)
+If the corporation wishes to make this adjustment in some 
+other way, it must get IRS approval. The corporation files a 
+request for approval with its income tax return for the tax 
+year in which it receives the contribution.
+Filing and Paying Income 
+Taxes
+The federal income tax is a pay-as-you-go tax. A corpora-
+tion must generally make estimated tax payments as it 
+earns or receives income during its tax year. After the end 
+of the year, the corporation must file an income tax return. 
+This section will help you determine when and how to pay 
+and file corporate income taxes.
+For certain corporations affected by federally de-
+clared disasters such as hurricanes, the due 
+dates for filing returns, paying taxes, and perform-
+ing other time-sensitive acts may be extended. The IRS 
+may also forgive the interest and penalties on any under-
+paid tax for the length of any extension. For more informa-
+tion, visit IRS.gov/DisasterTaxRelief.
+Income Tax Return
+This section will help you determine when and how to re-
+port a corporation's income tax.
+Who must file. Unless exempt under section 501 of the 
+Internal Revenue Code, all domestic corporations in exis-
+tence for any part of a tax year (including corporations in 
+bankruptcy) must file an income tax return whether or not 
+they have taxable income.
+Which form to file. A domestic entity electing to be clas-
+sified as an association taxable as a corporation must 
+generally file Form 1120, U.S. Corporation Income Tax Re-
+turn, to report its income, gains, losses, deductions, cred-
+its, and to figure its income tax liability. Certain organiza-
+tions and entities must, or may elect to, file special returns. 
+For more information, see Special Returns for Certain Or-
+ganizations in the Instructions for Form 1120.
+Electronic filing. Corporations can generally electroni-
+cally file (e-file) Form 1120 and certain related forms, 
+schedules, and attachmen
+
+
+--- Page 6 ---
+can show the failure to file on time was due to a reasona-
+ble cause.
+Note. If the corporation is charged a penalty for late 
+payment of tax (discussed next) for the same period of 
+time, the penalty for late filing is reduced by the amount of 
+the penalty for late payment.
+Late payment of tax. A corporation that does not pay 
+the tax when due may be penalized half of 1% of the un-
+paid tax for each month or part of a month the tax is not 
+paid, up to a maximum of 25% of the unpaid tax. The pen-
+alty will not be imposed if the corporation can show that 
+the failure to pay on time was due to a reasonable cause.
+Trust fund recovery penalty. If federal income, social 
+security, or Medicare taxes that a corporation must with-
+hold from employee wages are not withheld or are not de-
+posited or paid to the U.S. Treasury, the trust fund recov-
+ery penalty may apply. The penalty is the full amount of 
+the unpaid trust fund tax. This penalty may apply to you if 
+these unpaid taxes cannot be immediately collected from 
+the business.
+The trust fund recovery penalty may be imposed on all 
+persons who are determined by the IRS to be responsible 
+for collecting, accounting for, and paying these taxes, and 
+who acted willfully in not doing so.
+A responsible person can be an officer or employee of 
+a corporation, an accountant, or a volunteer director/
+trustee. A responsible person may also include one who 
+signs checks for the corporation or otherwise has authority 
+to cause the spending of business funds.
+ΓÇ£WillfullyΓÇ¥ means voluntarily, consciously, and intention-
+ally. A responsible person acts willfully if the person knows 
+the required actions are not taking place or recklessly dis-
+regards obvious and known risks to the governmentΓÇÖs right 
+to receive trust fund taxes.
+For more information on withholding and paying these 
+taxes, see Pub. 15 (Circular E), Employer's Tax Guide.
+Other penalties. Other penalties can be imposed for 
+negligence, substantial understatement of tax, rep
+
+
+--- Page 7 ---
+immediate catch-up payment should be made to reduce 
+any penalty resulting from the underpayment of any earlier 
+installments.
+Underpayment penalty. If the corporation does not pay 
+a required installment of estimated tax by its due date, it 
+may be subject to a penalty. The penalty is figured sepa-
+rately for each installment due date. Therefore, the corpo-
+ration may owe a penalty for an earlier due date, even if it 
+paid enough tax later to make up the underpayment. This 
+is true even if the corporation is due a refund when its re-
+turn is filed.
+Form 2220. Use Form 2220, Underpayment of Esti-
+mated Tax by Corporations, to determine if a corporation 
+is subject to the penalty for underpayment of estimated 
+tax and to figure the amount of the penalty.
+If the corporation is charged a penalty, the amount of 
+the penalty depends on the following three factors.
+1. The amount of the underpayment.
+2. The period during which the underpayment was due 
+and unpaid.
+3. The interest rate for underpayments published quar-
+terly by the IRS in the Internal Revenue Bulletin.
+A corporation generally does not have to file Form 2220 
+with its income tax return because the IRS will figure any 
+penalty and bill the corporation. However, even if the cor-
+poration does not owe a penalty, complete and attach the 
+form to the corporation's tax return if any of the following 
+apply.
+1. The annualized income installment method was used 
+to figure any required installment.
+2. The adjusted seasonal installment method was used 
+to figure any required installment.
+3. The corporation is a large corporation figuring its first 
+required installment based on the prior year's tax.
+How to pay estimated tax. A corporation is generally re-
+quired to use EFTPS to pay its taxes. See Electronic Fed-
+eral Tax Payment System (EFTPS), earlier.
+Quick refund of overpayments. A corporation that has 
+overpaid its estimated tax for the tax year may be able to 
+apply for a quick refund. Use Form 4466, Corporation 
+
+
+--- Page 8 ---
+fair market value of the property. A corporation that fails to 
+withhold may be liable for the tax and any penalties and 
+interest that apply. For more information, see section 1445 
+of the Internal Revenue Code; Pub. 515, Withholding of 
+Tax on Nonresident Aliens and Foreign Entities; Form 
+8288, U.S. Withholding Tax Return for Dispositions by For-
+eign Persons of U.S. Real Property Interests; and Form 
+8288-A, Statement of Withholding on Dispositions by For-
+eign Persons of U.S. Real Property Interests.
+Accounting Methods
+An accounting method is a set of rules used to determine 
+when and how income and expenses are reported. Taxa-
+ble income should be determined using the method of ac-
+counting regularly used in keeping the corporation's books 
+and records. In all cases, the method used must clearly 
+show taxable income.
+Generally, permissible methods include:
+ΓÇó Cash,
+ΓÇó Accrual, or
+ΓÇó Any other method authorized by the Internal Revenue 
+Code.
+Accrual method. Generally, a corporation, other than a 
+qualified personal service corporation (as defined in sec-
+tion 448(d)(2) of the Internal Revenue Code), must use an 
+accrual method of accounting if it is not a small business 
+taxpayer (as defined in section 448(c) of the Internal Rev-
+enue Code). A corporation engaged in farming operations 
+must also use an accrual method, unless it qualifies as a 
+small business taxpayer.
+Under an accrual method of accounting, you generally 
+report income in the year it is earned and deduct or capi-
+talize expenses in the year incurred. The purpose of an 
+accrual method of accounting is to match income and ex-
+penses in the correct year.
+See Pub. 538 for additional information and special 
+rules.
+Expenses. Generally, an accrual basis taxpayer can 
+deduct accrued expenses in the tax year when:
+1. All events that determine the liability have occurred,
+2. The amount of the liability can be figured with reason-
+able accuracy, and
+3. Economic performance takes place with respect to 
+the ex
+
+
+======================================================================
+FILE: p550.pdf
+Pages: 117
+======================================================================
+
+--- Page 1 ---
+Publication 550
+Investment 
+Income and 
+Expenses
+(Including Capital Gains 
+and Losses)
+For use in preparing
+2025 Returns
+Get forms and other information faster and easier at:
+ΓÇó IRS.gov (English) 
+ΓÇó IRS.gov/Spanish (Espa├▒ol) 
+ΓÇó IRS.gov/Chinese (Σ╕¡µûç) 
+ΓÇó IRS.gov/Korean (φò£Ω╡¡∞û┤) 
+ΓÇó IRS.gov/Russian (P╤â╤ü╤ü╨║╨╕╨╣) 
+ΓÇó IRS.gov/Vietnamese (Tiß║┐ng Viß╗çt) 
+Contents
+Future Developments . . . . . . . . . . . . . . . . . . . . . . . 1
+WhatΓÇÖs New . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+Reminders
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+Introduction
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+Chapter 1. Investment Income
+. . . . . . . . . . . . . . . 3
+General Information
+. . . . . . . . . . . . . . . . . . . . . . 4
+Interest Income . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Discount on Debt Instruments
+. . . . . . . . . . . . . . 18
+When To Report Interest Income
+. . . . . . . . . . . . 23
+How To Report Interest Income
+. . . . . . . . . . . . . 24
+Dividends and Other Distributions
+. . . . . . . . . . . 27
+How To Report Dividend Income
+. . . . . . . . . . . . 33
+Stripped Preferred Stock . . . . . . . . . . . . . . . . . . 34
+REMICs, FASITs, and Other CDOs . . . . . . . . . . . 35
+S Corporations . . . . . . . . . . . . . . . . . . . . . . . . . 37
+Investment Clubs
+. . . . . . . . . . . . . . . . . . . . . . . 37
+Chapter 2. Tax Shelters and Other Reportable 
+Transactions . . . . . . . . . . . . . . . . . . . . . . . . . . 38
+Abusive Tax Shelters . . . . . . . . . . . . . . . . . . . . . 39
+Chapter 3. Investment Expenses
+. . . . . . . . . . . . 44
+Limits on Deductions
+. . . . . . . . . . . . . . . . . . . . 44
+Interest Expenses . . . . . . . . . . . . . . . . . . . . . . . 45
+Bond Premium Amortization
+. . . . . . . . . . . . . . . 48
+Nondeductible Interest Expenses . . . . . . . . . . . . 50
+How To Report Investment Interest Expenses . . . 51
+When To Report Investment Expenses . . . . . . . . 52
+Chapter 4. Sales and Trad
+
+
+--- Page 2 ---
+WhatΓÇÖs New
+New rules for COVID-related employee retention 
+credit (ERC). A COVID-ERC promoter has to follow the 
+due diligence requirements to claim the employee reten-
+tion credit for a taxpayer. A promoter that fails to properly 
+follow the requirements will be subject to a penalty. See 
+Penalty for improper claims for the employee retention 
+credit (ERC) for more details.
+Micro-captive reportable transactions. The IRS issued 
+Regulations section 1.6011-10 to identify transactions that 
+are the same as, or substantially similar to, certain mi-
+cro-captive transactions, as listed transactions effective 
+January 14, 2025. The IRS also issued Regulations sec-
+tion 1.6011-11 to identify certain other micro-captive 
+transactions as transactions of interest. Both are reporta-
+ble transactions under Regulations section 1.6011-4. Cer-
+tain relief of penalties for failure to disclose is outlined in 
+Notice 2025-24.
+Deduction for state and local taxes (SALT). For tax 
+year 2025, the overall limit on the deduction for state and 
+local taxes has been increased to $40,000 ($20,000 if 
+married filing separately). In the prior year, the limit on the 
+deduction was $10,000 ($5,000 if married filing sepa-
+rately). See State and local income taxes in chapter 3.
+Reminders
+Foreign source income. If you are a U.S. citizen with in-
+vestment income from sources outside the United States 
+(foreign income), you must report that income on your tax 
+return unless it is exempt by U.S. law. This is true whether 
+you reside inside or outside the United States and 
+whether or not you receive a Form 1099 from the foreign 
+payer.
+Employee stock options. If you received an option to 
+buy or sell stock or other property as payment for your 
+services, see Pub. 525, Taxable and Nontaxable Income, 
+for the special tax rules that apply.
+Disaster relief. Relief is available for those affected by 
+some disasters. See IRS.gov/DisasterTaxRelief.
+Photographs of missing children. The Internal Reve-
+nue Servi
+
+
+--- Page 3 ---
+Ordering tax forms, instructions, and publications. 
+Go to IRS.gov/OrderForms to order current forms, instruc-
+tions, and publications; call 800-829-3676 to order 
+prior-year forms and instructions. The IRS will process 
+your order for forms and publications as soon as possible. 
+DonΓÇÖt resubmit requests youΓÇÖve already sent us. You can 
+get forms and publications faster online.
+1.
+Investment Income
+Topics
+This chapter discusses:
+ΓÇó Interest Income,
+ΓÇó Discount on Debt Instruments,
+ΓÇó When To Report Interest Income,
+ΓÇó How To Report Interest Income,
+ΓÇó Dividends and Other Distributions,
+ΓÇó How To Report Dividend Income,
+ΓÇó Stripped Preferred Stock,
+ΓÇó Real estate mortgage investment conduits (REMICs), 
+financial asset securitization investment trusts 
+(FASITs), and other collateralized debt obligations 
+(CDOs),
+ΓÇó S Corporations, and
+ΓÇó Investment Clubs.
+Useful Items
+You may want to see:
+Publication
+519 U.S. Tax Guide for Aliens
+525 Taxable and Nontaxable Income
+537 Installment Sales
+541 Partnerships
+542 Corporations
+555 Community Property
+559 Survivors, Executors, and Administrators
+590-B Distributions from Individual Retirement 
+Arrangements (IRAs)
+925 Passive Activity and At-Risk Rules
+938 Real Estate Mortgage Investment Conduits 
+(REMICs) Reporting Information (And Other 
+Collateralized Debt Obligations (CDOs))
+  519
+  525
+  537
+  541
+  542
+  555
+  559
+  590-B
+  925
+  938
+939 General Rule for Pensions and Annuities
+970 Tax Benefits for Education
+1212 Guide to Original Issue Discount (OID) 
+Instruments
+Form (and Instructions)
+Schedule A (Form 1040) Itemized Deductions
+Schedule B (Form 1040) Interest and Ordinary 
+Dividends
+Schedule D (Form 1040) Capital Gains and Losses
+Schedule K-1 (Form 1041) Beneficiary's Share of 
+Income, Deductions, Credits, etc.
+Schedule K-1 (Form 1065) Partner's Share of 
+Income, Deductions, Credits, etc.
+Schedule K-1 (Form 1120-S) Shareholder's Share 
+of Income, Deductions, Credits, etc.
+Schedule Q (Form 1066) Quarterly Notice to 
+Residual Interest H
+
+
+--- Page 4 ---
+8582 Passive Activity Loss Limitations
+8615 Tax for Certain Children Who Have Unearned 
+Income
+8814 Parents' Election To Report Child's Interest and 
+Dividends
+8815 Exclusion of Interest From Series EE and I U.S. 
+Savings Bonds Issued After 1989
+8818 Optional Form To Record Redemption of 
+Series EE and I U.S. Savings Bonds Issued 
+After 1989
+8824 Like-Kind Exchanges
+8832 Entity Classification Election
+8912 Credit to Holders of Tax Credit Bonds
+8949 Sales and Other Dispositions of Capital Assets
+8960 Net Investment Income TaxΓÇöIndividuals, 
+Estates, and Trusts
+8997 Initial and Annual Statement of Qualified 
+Opportunity Fund (QOF) Investments
+See chapter 5, How To Get Tax Help, for information about 
+getting these publications and forms.
+General Information
+A few items of general interest are covered here.
+Recordkeeping.  You should keep a list of the sources 
+and investment income amounts you receive during the 
+year. Also, keep the forms you receive showing your in-
+vestment income (Form 1099-DIV, Form 1099-INT, Form 
+1099ΓÇôOID, etc.) as an important part of your records.
+Net investment income tax (NIIT). The NIIT is a 3.8% 
+tax on the lesser of your net investment income or the 
+amount of your modified adjusted gross income (MAGI) 
+that is over a threshold amount based on your filing status.
+Filing Status
+Threshold Amount
+Married Filing Jointly or Qualifying 
+Surviving Spouse
+$250,000
+Married Filing Separately
+$125,000
+Single or Head of Household
+$200,000
+See Code section 1411, Form 8960 and the Instruc-
+tions for Form 8960 for more information.
+Tax on unearned income of certain children. Form 
+8615 must be filed for any child who meets all of the fol-
+lowing conditions.
+1. The child has more than $2,700 of unearned income.
+2. The child is required to file a tax return.
+3. The child either:
+a. Was under age 18 at the end of 2025,
+  8582
+  8615
+  8814
+  8815
+  8818
+  8824
+  8832
+  8912
+  8949
+  8960
+  8997
+b. Was age 18 at the end of 2025 and didnΓÇÖt have 
+earned incom
+
+
+--- Page 5 ---
+of dividends on stock owned by your child, even though 
+the dividends are paid to you as custodian.
+Penalty for failure to supply TIN. You may be sub-
+ject to a penalty if, when required, you fail to:
+ΓÇó Include your TIN on any return, statement, or other 
+document;
+ΓÇó Give your TIN to another person who must include it 
+on any return, statement, or other document; or
+ΓÇó Include the TIN of another person on any return, state-
+ment, or other document.
+The penalty is $50 for each failure up to a maximum pen-
+alty of $100,000 for any calendar year.
+This penalty may be abated if you can show that your 
+failure to provide the TIN was due to reasonable cause 
+and not to willful neglect.
+If you fail to supply a TIN in the manner required, you 
+also may be subject to backup withholding.
+Backup withholding. Your investment income is gener-
+ally not subject to regular withholding. However, it may be 
+subject to backup withholding to ensure that income tax is 
+collected on the income. The bank, broker, or other payer 
+of interest, OID, dividends, cash patronage dividends, or 
+royalties must withhold income tax on these reportable 
+payments at a rate of 24% under backup withholding.
+Backup withholding applies if:
+1. You do not give the payer your TIN in the required 
+manner;
+2. The IRS notifies the payer that you gave an incorrect 
+TIN;
+3. The IRS notifies the payer that you are subject to 
+backup withholding on interest or dividends because 
+you underreported interest or dividends on your in-
+come tax return; or
+4. You are required, but fail, to certify that you are not 
+subject to backup withholding for the reason descri-
+bed in (3).
+Certification. For new accounts paying interest or div-
+idends, you must certify under penalties of perjury that 
+your TIN is correct and that you are not subject to backup 
+withholding. Your payer will give you a Form W-9, or simi-
+lar form, to make this certification. If you fail to make this 
+certification, backup withholding may begin immediatel
+
+
+--- Page 6 ---
+one-half of any taxable distribution. See Pub. 555 for more 
+information on community income.
+If the distribution is not considered community property 
+and you and your spouse file separate returns, each of 
+you must report your separate taxable distributions.
+Example. You and your spouse have a joint money 
+market account. Under state law, half the income from the 
+account belongs to you, and half belongs to your spouse. 
+If you file separate returns, you each report half the in-
+come.
+Income from property given to a child. Property you 
+give as a parent to your child under the Model Gifts of Se-
+curities to Minors Act, the Uniform Gifts to Minors Act, or 
+any similar law becomes the child's property.
+Income from the property is taxable to the child, except 
+that any part used to satisfy a legal obligation to support 
+the child is taxable to the parent or guardian having that 
+legal obligation.
+Savings account with parent as trustee. Interest in-
+come from a savings account opened for a minor child, 
+but placed in the name and subject to the order of the pa-
+rents as trustees, is taxable to the child if, under the law of 
+the state in which the child resides, both of the following 
+are true.
+ΓÇó The savings account legally belongs to the child.
+ΓÇó The parents are not legally permitted to use any of the 
+funds to support the child.
+Where To Report Common Types of Investment Income 
+See How To Report Interest Income and How To Report Dividend Income for more details.
+Table 1-1. 
+Type of Income 
+If you file Form 1040 or 1040-SR, report on ...
+Tax-exempt interest
+Line 2a (See the instructions there).
+Taxable interest
+Line 2b (See the instructions there).
+Savings bond interest you will exclude because of higher 
+education expenses
+Schedule B; also use Form 8815.
+Qualified dividends
+Line 3a (See the instructions there).
+Ordinary dividends
+Line 3b (See the instructions there).
+Capital gain distributions
+Line 7a, or, if required, Schedule D, line 13. (See the instructions 
+of
+
+
+--- Page 7 ---
+ 
+Term loan
+ 
+This section discusses the tax treatment of different types 
+of interest income.
+In general, any interest that you receive or that is credi-
+ted to your account and can be withdrawn is taxable in-
+come. Exceptions to this rule are discussed later.
+Form 1099-INT. Interest income generally is reported to 
+you on Form 1099-INT, or a similar statement, by banks, 
+savings and loan associations, and other payers of inter-
+est. This form shows you the interest you received during 
+the year. Keep this form for your records. You do not have 
+to attach it to your tax return.
+Report on your tax return the total interest income you 
+receive for the tax year. See Form 1099-INT, Instructions 
+for Recipient, to see whether you need to adjust any of the 
+amounts reported to you.
+Interest not reported on Form 1099-INT. You must 
+report all your interest income even if you do not receive a 
+Form 1099-INT. For example, you may receive distributive 
+shares of interest from partnerships or S corporations. 
+This interest is reported to you on Schedule K-1 (Form 
+1065) and Schedule K-1 (Form 1120-S).
+Nominees. Generally, if someone receives interest as 
+a nominee, that person must give you a Form 1099-INT 
+showing the interest received on your behalf.
+If you receive a Form 1099-INT and interest as a nomi-
+nee for another person, see the discussion on Nominee 
+distributions, later.
+Incorrect amount. If you receive a Form 1099-INT 
+that shows an incorrect amount (or other incorrect infor-
+mation), you should ask the issuer for a corrected form. 
+The new Form 1099-INT you receive should be denoted 
+ΓÇ£Corrected.ΓÇ¥
+Form 1099-OID. Interest income may also be shown on 
+Form 1099-OID. See Original Issue Discount (OID), for 
+more information.
+Exempt-interest dividends. Form 1099-DIV, box 12, 
+shows exempt-interest dividends from a mutual fund or 
+other regulated investment company (RIC) paid to you 
+during the calendar year. See the Instructions for Form 
+1040 or 1040-SR for where to r
+
+
+--- Page 8 ---
+interest you earn on the certificate are two separate items. 
+You must report the total interest you earn on the certifi-
+cate in your income. If you itemize deductions, you can 
+deduct the interest you pay as investment interest, up to 
+the amount of your net investment income. See Interest 
+Expenses in chapter 3.
+Example. You purchase a $10,000 certificate of de-
+posit by borrowing $5,000 from the bank and adding an 
+additional $5,000 of your funds. The certificate earned 
+$575 at maturity in 2025, but you received only $265, 
+which represented the $575 you earned minus $310 inter-
+est charged on your $5,000 loan. The bank gives you a 
+Form 1099-INT for 2025 showing the $575 interest you 
+earned. The bank also gives you a statement showing that 
+you paid $310 interest for 2025. You must include the 
+$575 in your income. If you itemize your deductions on 
+Schedule A (Form 1040), you can deduct $310, subject to 
+the net investment income limit.
+Gift for opening account. If you receive noncash gifts or 
+services for making deposits or for opening an account in 
+a savings institution, the value may be reported to you as 
+interest income on Form 1099-INT and you may have to 
+report it on your tax return.
+For deposits of less than $5,000, gifts or services val-
+ued at more than $10 must be reported as interest. For 
+deposits of $5,000 or more, gifts or services valued at 
+more than $20 must be reported as interest. The value is 
+determined by the cost to the financial institution.
+Example. You open a savings account at your local 
+bank and deposit $800. The account earns $20 interest. 
+You also receive a $15 calculator. If no other interest is 
+credited to your account during the year, the Form 
+1099-INT you receive will show $35 interest for the year. 
+You must report $35 interest income on your tax return.
+Interest on insurance dividends. Interest on insurance 
+dividends left on deposit with an insurance company that 
+can be withdrawn annually is taxable to you in the
+
+
+======================================================================
+FILE: p590a.pdf
+Pages: 62
+======================================================================
+
+--- Page 1 ---
+Publication 590-A
+Contributions 
+to Individual
+Retirement
+Arrangements
+(IRAs)
+For use in preparing
+2025 Returns
+Get forms and other information faster and easier at:
+ΓÇó IRS.gov (English) 
+ΓÇó IRS.gov/Spanish (Espa├▒ol) 
+ΓÇó IRS.gov/Chinese (Σ╕¡µûç) 
+ΓÇó IRS.gov/Korean (φò£Ω╡¡∞û┤) 
+ΓÇó IRS.gov/Russian (P╤â╤ü╤ü╨║╨╕╨╣) 
+ΓÇó IRS.gov/Vietnamese (Tiß║┐ng Viß╗çt) 
+Contents
+Future Developments . . . . . . . . . . . . . . . . . . . . . . . 1
+WhatΓÇÖs New for 2025 . . . . . . . . . . . . . . . . . . . . . . . . 1
+WhatΓÇÖs New for 2026 . . . . . . . . . . . . . . . . . . . . . . . . 2
+Reminders
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+Introduction
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+Chapter 1. Traditional IRAs . . . . . . . . . . . . . . . . . . 6
+Who Can Open a Traditional IRA?
+. . . . . . . . . . . . 6
+When Can a Traditional IRA Be Opened? . . . . . . . 7
+How Can a Traditional IRA Be Opened? . . . . . . . . 7
+How Much Can Be Contributed?
+. . . . . . . . . . . . . 9
+When Can Contributions Be Made? . . . . . . . . . . 10
+How Much Can You Deduct? . . . . . . . . . . . . . . . 11
+What if You Inherit an IRA?
+. . . . . . . . . . . . . . . . 21
+Can You Move Retirement Plan Assets? . . . . . . . 21
+When Can You Withdraw or Use Assets?
+. . . . . . 31
+What Acts Result in Penalties or Additional 
+Taxes? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+Chapter 2. Roth IRAs
+. . . . . . . . . . . . . . . . . . . . . 38
+What Is a Roth IRA? . . . . . . . . . . . . . . . . . . . . . 39
+When Can a Roth IRA Be Opened? . . . . . . . . . . 39
+Can You Contribute to a Roth IRA? . . . . . . . . . . . 39
+Can You Move Amounts Into a Roth IRA? . . . . . . 44
+Chapter 3. Retirement Savings Contributions 
+Credit (Saver's Credit)
+. . . . . . . . . . . . . . . . . . 46
+How To Get Tax Help . . . . . . . . . . . . . . . . . . . . . . . 48
+Appendices
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 52
+Index
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+
+
+--- Page 2 ---
+4547, which can be filed at the same time as the author-
+ized individualΓÇÖs 2025 income tax return. For more infor-
+mation on Trump accounts, and to learn how to make 
+these elections, see Form 4547 and its instructions.
+Modified AGI limit for traditional IRA contributions. 
+For 2025, if you are covered by a retirement plan at work, 
+your deduction for contributions to a traditional IRA is re-
+duced (phased out) if your modified AGI is:
+ΓÇó More than $126,000 but less than $146,000 for a mar-
+ried couple filing a joint return or a qualifying surviving 
+spouse,
+ΓÇó More than $79,000 but less than $89,000 for a single 
+individual or head of household, or
+ΓÇó Less than $10,000 for a married individual filing a sep-
+arate return.
+Modified AGI limit for certain married individuals. 
+If you are married and your spouse is covered by a retire-
+ment plan at work and you arenΓÇÖt, and you live with your 
+spouse or file a joint return, your deduction is phased out if 
+your modified AGI is more than $236,000 (up from 
+$230,000 for 2024) but less than $246,000 (up from 
+$240,000 for 2024). If your modified AGI is $246,000 or 
+more, you canΓÇÖt take a deduction for contributions to a tra-
+ditional IRA.
+Modified AGI limit for Roth IRA contributions. For 
+2025, your Roth IRA contribution limit is reduced (phased 
+out) in the following situations.
+ΓÇó Your filing status is married filing jointly or qualifying 
+surviving spouse and your modified AGI is at least 
+$236,000. You canΓÇÖt make a Roth IRA contribution if 
+your modified AGI is $246,000 or more.
+ΓÇó Your filing status is single, head of household, or mar-
+ried filing separately and you didnΓÇÖt live with your 
+spouse at any time in 2025 and your modified AGI is at 
+least $150,000. You canΓÇÖt make a Roth IRA contribu-
+tion if your modified AGI is $165,000 or more.
+ΓÇó Your filing status is married filing separately, you lived 
+with your spouse at any time during the year, and your 
+modified AGI is more than zero. You canΓÇÖt make a Roth 
+IRA contrib
+
+
+--- Page 3 ---
+Repayment of certain early distributions. Contribu-
+tions made to the eligible retirement plan as a repayment 
+of emergency personal expense distributions, domestic 
+abuse distributions, and terminal illness distributions may 
+be eligible for tax-free rollover treatment. See Pub. 590-B 
+for more information.
+Certain corrective distributions not subject to 10% 
+additional tax. Beginning on December 29, 2022, the 
+10% additional tax on early distributions will not apply to a 
+corrective IRA distribution, which consists of an excess 
+contribution (a contribution greater than the IRA contribu-
+tion limit) and any earnings allocable to the excess contri-
+bution, as long as the corrective distribution is made on or 
+before the due date (including extensions) of the income 
+tax return.
+Divorce or separation instruments after 2018. 
+Amounts paid as alimony or separate maintenance pay-
+ments under a divorce or separation instrument executed 
+after 2018 won't be deductible by the payer. Such 
+amounts also won't be includible in the income of the re-
+cipient. The same is true of alimony paid under a divorce 
+or separation instrument executed before 2019 and modi-
+fied after 2018, if the modification expressly states that the 
+alimony isn't deductible to the payer or includible in the in-
+come of the recipient. For more information, see Pub. 504.
+IRA interest. Although interest earned from your IRA is 
+generally not taxed in the year earned, it isnΓÇÖt tax-exempt 
+interest. Tax on your traditional IRA is generally deferred 
+until you take a distribution. DonΓÇÖt report this interest on 
+your return as tax-exempt interest. For more information 
+on tax-exempt interest, see the instructions for your tax re-
+turn.
+Photographs of missing children. The IRS is a proud 
+partner with the National Center for Missing & Exploited 
+Children┬« (NCMEC). Photographs of missing children se-
+lected by the Center may appear in this publication on pa-
+ges that would otherwise be blank. You can help bri
+
+
+--- Page 4 ---
+590-B Distributions from Individual Retirement 
+Arrangements (IRAs)
+560 Retirement Plans for Small Business (SEP, 
+SIMPLE, and Qualified Plans)
+571 Tax-Sheltered Annuity Plans (403(b) Plans)
+575 Pension and Annuity Income
+939 General Rule for Pensions and Annuities
+Forms (and Instructions)
+W-4P Withholding Certificate for Pension or Annuity 
+Payments
+1099-R Distributions From Pensions, Annuities, 
+Retirement or Profit-Sharing Plans, IRAs, 
+Insurance Contracts, etc.
+5304-SIMPLE Savings Incentive Match Plan for 
+Employees of Small Employers (SIMPLE)ΓÇöNot 
+for Use With a Designated Financial Institution
+5305-S SIMPLE Individual Retirement Trust Account
+5305-SA SIMPLE Individual Retirement Custodial 
+Account
+  590-B
+  560
+  571
+  575
+  939
+  W-4P
+  1099-R
+  5304-SIMPLE
+  5305-S
+  5305-SA
+5305-SIMPLE Savings Incentive Match Plan for 
+Employees of Small Employers (SIMPLE)ΓÇöfor 
+Use With a Designated Financial Institution
+5329 Additional Taxes on Qualified Plans (Including 
+IRAs) and Other Tax-Favored Accounts
+5498 IRA Contribution Information
+8606 Nondeductible IRAs
+8815 Exclusion of Interest From Series EE and I U.S. 
+Savings Bonds Issued After 1989
+8839 Qualified Adoption Expenses
+8880 Credit for Qualified Retirement Savings 
+Contributions
+8915-F Qualified Disaster Retirement Plan 
+Distributions and Repayments
+See How To Get Tax Help near the end of this publication 
+for information about getting these publications and forms.
+  5305-SIMPLE
+  5329
+  5498
+  8606
+  8815
+  8839
+  8880
+  8915-F
+Table I-1. Using This Publication
+IF you need information on...
+ΓÇçTHEN see... 
+traditional IRAs (not including traditional SIMPLE IRAs)
+ΓÇçchapter 1.
+Roth IRAs (not including Roth SIMPLE IRAs)
+ΓÇçchapter 2, and parts of 
+ΓÇçchapter 1.
+the credit for qualified retirement savings contributions 
+(saver's credit)
+ΓÇçchapter 3.
+how to keep a record of your contributions to, and 
+distributions from, your traditional IRA(s) 
+ΓÇçAppendix A.
+SEP IRAs, SIMPLE IRAs, and 401(k) plans
+ΓÇçPub. 560.
+Coverdell educ
+
+
+--- Page 5 ---
+Table I-2. How Are a Traditional IRA and a Roth IRA Different?
+This table shows the differences between traditional IRAs (not including traditional SIMPLE IRAs) and Roth IRAs (not 
+including Roth SIMPLE IRAs). Answers in the middle column apply to traditional IRAs. Answers in the right column apply 
+to Roth IRAs.
+Question
+Answer
+Traditional IRA?
+Roth IRA?
+Is there an age limit on when I can open 
+and contribute to a . . . . . . . . . . . . . . . .
+No. For tax years after 2019, you are 
+able to contribute to your IRA even if 
+you have reached age 701/2 or older. 
+See Who Can Open a Traditional IRA? 
+in chapter 1.
+No. You can be any age. See Can You 
+Contribute to a Roth IRA? in chapter 2.
+If I earned more than $7,000 in 2025 
+($8,000 if I was age 50 or older by the 
+end of 2025), is there a limit on how 
+much I can contribute to a . . . . . . . . . . .
+Yes. For 2025, you can contribute to a 
+traditional IRA up to: 
+ΓÇó $7,000, or
+ΓÇó $8,000 if you were age 50 or older 
+by the end of 2025.
+There is no upper limit on how much 
+you can earn and still contribute. See 
+How Much Can Be Contributed? in 
+chapter 1. 
+Yes. For 2025, you may be able to 
+contribute to a Roth IRA up to: 
+ΓÇó $7,000, or
+ΓÇó $8,000 if you were age 50 or older 
+by the end of 2025,
+but the amount you can contribute may 
+be less than that depending on your 
+income, your filing status, and if you 
+contribute to another IRA. See How 
+Much Can Be Contributed? and Table 
+2-1 in chapter 2.
+Can I deduct contributions to a . . . . . . .
+Yes. You may be able to deduct your 
+contributions to a traditional IRA 
+depending on your income, your filing 
+status, whether you are covered by a 
+retirement plan at work, and whether 
+you receive social security benefits. 
+See How Much Can You Deduct? in 
+chapter 1.
+No. You can never deduct contributions 
+to a Roth IRA. See What Is a Roth IRA? 
+in chapter 2.
+Do I have to file a form just because I 
+contribute to a . . . . . . . . . . . . . . . . . . . .
+Not unless you make nonded
+
+
+--- Page 6 ---
+1.
+Traditional IRAs
+Reminders
+Types of IRAs. An IRA can be either a traditional IRA or 
+a Roth IRA. In general, individuals may make their own 
+contributions to their traditional IRAs or Roth IRAs. In ad-
+dition, certain employers have arrangements under which 
+the employer may contribute to IRAs of their employees.
+Under a SEP arrangement, an employer contributes to 
+traditional IRAs (sometimes referred to as traditional SEP 
+IRAs) or Roth IRAs (sometimes referred to as Roth SEP 
+IRAs) of its employees. Individuals may separately make 
+their own contributions to the same IRAs to which their 
+employer contributes under a SEP arrangement.
+Under a SIMPLE IRA plan, an employer contributes 
+salary reduction contributions (at the election of the em-
+ployee), matching contributions and/or nonelective contri-
+butions to traditional IRAs (sometimes referred to as tradi-
+tional SIMPLE IRAs) or Roth IRAs (sometimes referred to 
+as Roth SIMPLE IRAs) of its employees. However, a SIM-
+PLE IRA (whether a traditional SIMPLE IRA or a Roth 
+SIMPLE IRA) is subject to certain restrictions that do not 
+generally apply to other traditional IRAs or Roth IRAs. For 
+example, an individual cannot make their own contribu-
+tions to a SIMPLE IRA. In addition, there are various re-
+strictions related to distributions and contributions during 
+the initial 2 years of participation in the SIMPLE IRA plan.
+References in this publication to traditional IRAs gener-
+ally include traditional SEP IRAs but do not include tradi-
+tional SIMPLE IRAs, unless otherwise stated. Likewise, 
+references to Roth IRAs generally include Roth SEP IRAs 
+but do not include Roth SIMPLE IRAs, unless otherwise 
+stated.
+Introduction
+This chapter discusses the original IRA. In this publica-
+tion, the original IRA (sometimes called an ordinary or reg-
+ular IRA) is referred to as a ΓÇ£traditional IRA.ΓÇ¥ For purposes 
+of this publication, a traditional IRA is any IRA that isnΓÇÖt a 
+Roth IRA or a SIMPLE IRA. Traditional IRAs include
+
+
+--- Page 7 ---
+earnings from your trade or business (provided your per-
+sonal services are a material income-producing factor) re-
+duced by the total of:
+ΓÇó The deduction for contributions made on your behalf 
+to retirement plans, and
+ΓÇó The deduction allowed for the deductible part of your 
+self-employment taxes.
+Compensation includes earnings from self-employment 
+even if they arenΓÇÖt subject to self-employment tax because 
+of your religious beliefs.
+Self-employment loss. If you have a net loss from 
+self-employment, donΓÇÖt subtract the loss from your salaries 
+or wages when figuring your total compensation.
+Alimony and separate maintenance. For IRA purpo-
+ses, compensation includes any taxable alimony and sep-
+arate maintenance payments you receive under a decree 
+of divorce or separate maintenance but only with respect 
+to divorce or separation instruments executed on or before 
+December 31, 2018, that have not been modified to ex-
+clude such amounts.
+Nontaxable combat pay. If you were a member of the 
+U.S. Armed Forces, compensation includes any nontaxa-
+ble combat pay you received. This amount should be re-
+ported in box 12 of your 2025 Form W-2 with code Q.
+Graduate or postdoctoral study. A scholarship or fel-
+lowship is generally taxable compensation only if it is in 
+box 1 of your Form W-2. However, for tax years beginning 
+after 2019, certain non-tuition fellowship and stipend pay-
+ments not reported to you on Form W-2 are treated as tax-
+able compensation for IRA purposes. These amounts in-
+clude taxable non-tuition fellowship and stipend payments 
+made to aid you in the pursuit of graduate or postdoctoral 
+study and included in your gross income under the rules 
+discussed in chapter 1 of Pub. 970.
+Compensation for Purposes
+of an IRA
+Includes...
+DoesnΓÇÖt include...
+ΓÇçearnings and profits from
+ΓÇçproperty.
+wages, salaries, etc.
+ΓÇçinterest and
+ΓÇçdividend income.
+commissions.
+ΓÇçpension or annuity
+ΓÇçincome.
+self-employment income.
+ΓÇçdeferred compensation.
+taxable alimony and separate 
+m
+
+
+--- Page 8 ---
+year. However, rollover contributions and employer 
+contributions to a traditional SEP IRA can be more 
+than this amount.
+ΓÇó Contributions, except for rollover contributions, must 
+be in cash. See Rollovers, later.
+ΓÇó You must have a nonforfeitable right to the amount at 
+all times.
+ΓÇó Money in your account canΓÇÖt be used to buy a life in-
+surance policy.
+ΓÇó Assets in your account canΓÇÖt be combined with other 
+property, except in a common trust fund or common 
+investment fund.
+ΓÇó You must start receiving distributions by April 1 of the 
+year following the year in which you reach age 73. See 
+Pub. 590-B for more information about RMDs and 
+other distribution rules.
+Individual Retirement Annuity
+You can open an individual retirement annuity by purchas-
+ing an annuity contract or an endowment contract from a 
+life insurance company.
+An individual retirement annuity must be issued in your 
+name as the owner, and either you or your beneficiaries 
+who survive you are the only ones who can receive the 
+benefits or payments.
+An individual retirement annuity must meet all the fol-
+lowing requirements.
+ΓÇó Your entire interest in the contract must be nonforfeita-
+ble.
+ΓÇó The contract must provide that you canΓÇÖt transfer any 
+portion of it to any person other than the issuer.
+ΓÇó There must be flexible premiums so that if your com-
+pensation changes, your payment can also change. 
+This provision applies to contracts issued after No-
+vember 6, 1978.
+ΓÇó The contract must provide that contributions canΓÇÖt be 
+more than the deductible amount for an IRA for the 
+year, and that you must use any refunded premiums to 
+pay for future premiums or to buy more benefits before 
+the end of the calendar year after the year in which 
+you receive the refund.
+ΓÇó Distributions must begin by April 1 of the year follow-
+ing the year in which you reach age 73. See Pub. 
+590-B for more information about RMDs and other dis-
+tribution rules. 
+Individual Retirement Bonds
+The sale of individual retirement bonds issue
+
+
+======================================================================
+FILE: p936.pdf
+Pages: 23
+======================================================================
+
+--- Page 1 ---
+Publication 936
+Home
+Mortgage
+Interest
+Deduction
+For use in preparing
+2025 Returns
+Get forms and other information faster and easier at:
+ΓÇó IRS.gov (English) 
+ΓÇó IRS.gov/Spanish (Espa├▒ol) 
+ΓÇó IRS.gov/Chinese (Σ╕¡µûç) 
+ΓÇó IRS.gov/Korean (φò£Ω╡¡∞û┤) 
+ΓÇó IRS.gov/Russian (P╤â╤ü╤ü╨║╨╕╨╣) 
+ΓÇó IRS.gov/Vietnamese (Tiß║┐ng Viß╗çt) 
+Reminders
+Mortgage insurance premiums. The itemized deduc-
+tion for mortgage insurance premiums has expired. You 
+can no longer claim the deduction.
+Home equity loan interest. No matter when the indebt-
+edness was incurred, you can no longer deduct the inter-
+est from a loan secured by your home to the extent the 
+loan proceeds weren't used to buy, build, or substantially 
+improve your home.
+Home mortgage interest. You can deduct home mort-
+gage interest on the first $750,000 ($375,000 if married fil-
+ing separately) of indebtedness. However, higher limita-
+tions ($1 million ($500,000 if married filing separately)) 
+apply if you are deducting mortgage interest from indebt-
+edness incurred before December 16, 2017.
+Future developments. For the latest information about 
+developments related to Pub. 936, such as legislation 
+enacted after it was published, go to IRS.gov/Pub936.
+Photographs of missing children. The IRS is a proud 
+partner with the National Center for Missing & Exploited 
+Children┬« (NCMEC). Photographs of missing children se-
+lected by the Center may appear in this publication on pa-
+ges that would otherwise be blank. You can help bring 
+these children home by looking at the photographs and 
+calling 1-800-THE-LOST (1-800-843-5678) if you recog-
+nize a child.
+Introduction
+This publication discusses the rules for deducting home 
+mortgage interest.
+Part I contains general information on home mortgage 
+interest, including points. It also explains how to report de-
+ductible interest on your tax return.
+Part II explains how your deduction for home mortgage 
+interest may be limited. It contains Table 1, which is a 
+worksheet you can use to figure the limit on your ded
+
+
+--- Page 2 ---
+Help/ITA where you can find topics by using the search 
+feature or viewing the categories listed.
+Getting tax forms, instructions, and publications. 
+Go to IRS.gov/Forms to download current and prior-year 
+forms, instructions, and publications.
+Ordering tax forms, instructions, and publications. 
+Go to IRS.gov/OrderForms to order current forms, instruc-
+tions, and publications; call 800-829-3676 to order 
+prior-year forms and instructions. The IRS will process 
+your order for forms and publications as soon as possible. 
+DonΓÇÖt resubmit requests youΓÇÖve already sent us. You can 
+get forms and publications faster online.
+Useful Items
+You may want to see:
+Publication
+504 Divorced or Separated Individuals
+523 Selling Your Home
+527 Residential Rental Property
+530 Tax Information for Homeowners
+See How To Get Tax Help at the end of this publication for 
+information about getting these publications.
+Part I. Home
+Mortgage Interest
+This part explains what you can deduct as home mort-
+gage interest. It includes discussions on points and how to 
+report deductible interest on your tax return.
+Generally, home mortgage interest is any interest you 
+pay on a loan secured by your home (main home or a sec-
+ond home). The loan may be a mortgage to buy your 
+home, or a second mortgage.
+You canΓÇÖt deduct home mortgage interest unless the 
+following conditions are met.
+ΓÇó You file Form 1040 or 1040-SR and itemize deduc-
+tions on Schedule A (Form 1040).
+ΓÇó The mortgage is a secured debt on a qualified home 
+in which you have an ownership interest. Secured 
+Debt and Qualified Home are explained later.
+Both you and the lender must intend that the loan be re-
+paid.
+Note: Interest on home equity loans and lines of credit 
+are deductible only if the borrowed funds are used to buy, 
+  504
+  523
+  527
+  530
+build, or substantially improve the taxpayerΓÇÖs home that 
+secures the loan. The loan must be secured by the tax-
+payerΓÇÖs main home or second home (qualified residence), 
+and meet other requiremen
+
+
+--- Page 3 ---
+No
+No
+Yes
+No
+Yes
+No
+Yes
+Yes
+No
+Figure A.   Is My Home Mortgage Interest Fully Deductible?
+(Instructions: Include balances of ALL mortgages secured by your main home and second home.)  
+Start Here:
+Do you meet the conditions1 to deduct home 
+mortgage interest?
+Were all of your home mortgages taken out
+on or before October 13, 1987?
+You canΓÇÖt deduct the interest payments as home 
+mortgage interest. 2
+Go to Part II of this publication to determine the 
+limits on your deductible home mortgage interest.  
+Were your (or your spouseΓÇÖs if married ∩¼üling a joint 
+return) grandfathered debt plus home acquisition 
+debt balances $750,000 or less  ($375,000 or less if 
+married ∩¼üling separately) (or $1 million or less 
+($500,000 if married ∩¼üling separately) if all debt was 
+incurred prior to December 16, 2017) at all times
+during the year?
+Your home mortgage interest is fully deductible. You 
+donΓÇÖt need to read Part II of this publication. 
+Were all of your home mortgages taken out after 
+October 13, 1987, used to buy, build, or substantially 
+improve the main home secured by that main home 
+mortgage or used to buy, build, or substantially 
+improve the second home secured by that second 
+home mortgage, or both?
+Were your (or your spouseΓÇÖs if married ∩¼üling a joint 
+return) mortgage balances $750,000 or less 
+($375,000 or less if married ∩¼üling separately) 
+(or $1 million or less ($500,000 if married ∩¼üling 
+separately) if all debt was incurred prior to 
+December 16, 2017) at all times during the year?
+1 You must itemize deductions on Schedule A (Form 1040). The loan must be a secured debt on a quali∩¼üed home. See Part I, Home Mortgage Interest, earlier.
+2 See Table 2 in Part II of this publication for where to deduct other types of interest payments.    
+3 A taxpayer who enters into a written binding contract before December 15, 2017, to close on the purchase of a principal residence before January 1, 2018, 
+and who purchases such residence before April 1, 2018, is considered to have 
+
+
+--- Page 4 ---
+Debt not secured by home. A debt isnΓÇÖt secured by 
+your home if it is secured solely because of a lien on your 
+general assets or if it is a security interest that attaches to 
+the property without your consent (such as a mechanic's 
+lien or judgment lien).
+A debt isnΓÇÖt secured by your home if it once was, but is 
+no longer, secured by your home.
+Wraparound mortgage. This isnΓÇÖt a secured debt un-
+less it is recorded or otherwise perfected under state law.
+Example. Ari owns a home subject to a mortgage of 
+$40,000. Ari sells the home for $100,000 to Palmer, who 
+takes it subject to the $40,000 mortgage. Ari continues to 
+make the payments on the $40,000 note. Palmer pays 
+$10,000 down and gives Ari a $90,000 note secured by a 
+wraparound mortgage on the home. Ari doesn't record or 
+otherwise perfect the $90,000 mortgage under the state 
+law that applies. Therefore, the mortgage isn't a secured 
+debt and Palmer can't deduct any of the interest paid on it 
+as home mortgage interest.
+Choice to treat the debt as not secured by your 
+home. You can choose to treat any debt secured by your 
+qualified home as not secured by the home. This treat-
+ment begins with the tax year for which you make the 
+choice and continues for all later tax years. You can re-
+voke your choice only with the consent of the IRS.
+You may want to treat a debt as not secured by your 
+home if the interest on that debt is fully deductible (for ex-
+ample, as a business expense) whether or not it qualifies 
+as home mortgage interest. This may allow you, if the lim-
+its in Part II apply, more of a deduction for interest on other 
+debts that are deductible only as home mortgage interest.
+Cooperative apartment owner. If you own stock in a co-
+operative housing corporation, see the Special Rule for 
+Tenant-Stockholders in Cooperative Housing Corpora-
+tions near the end of this Part I.
+Qualified Home
+For you to take a home mortgage interest deduction, your 
+debt must be secured by a qualified home. This means 
+
+
+--- Page 5 ---
+Home under construction. You can treat a home under 
+construction as a qualified home for a period of up to 24 
+months, but only if it becomes your qualified home at the 
+time it is ready for occupancy.
+The 24-month period can start any time on or after the 
+day construction begins.
+Home destroyed. You may be able to continue treating 
+your home as a qualified home even after it is destroyed in 
+a fire, storm, tornado, earthquake, or other casualty. This 
+means you can continue to deduct the interest you pay on 
+your home mortgage, subject to the limits described in this 
+publication.
+You can continue treating a destroyed home as a quali-
+fied home if, within a reasonable period of time after the 
+home is destroyed, you:
+ΓÇó Rebuild the destroyed home and move into it, or
+ΓÇó Sell the land on which the home was located.
+This rule applies to your main home and to a second 
+home that you treat as a qualified home.
+Time-sharing arrangements. You can treat a home you 
+own under a time-sharing plan as a qualified home if it 
+meets all the requirements. A time-sharing plan is an ar-
+rangement between two or more people that limits each 
+person's interest in the home or right to use it to a certain 
+part of the year.
+Rental of time-share. If you rent out your time-share, 
+it qualifies as a second home only if you also use it as a 
+home during the year. See Second home rented out, ear-
+lier, for the use requirement. To know whether you meet 
+that requirement, count your days of use and rental of the 
+home only during the time you have a right to use it or to 
+receive any benefits from the rental of it.
+Married taxpayers. If you're married and file a joint re-
+turn, your qualified home(s) can be owned either jointly or 
+by only one spouse.
+Separate returns. If you're married filing separately 
+and you and your spouse own more than one home, you 
+can each take into account only one home as a qualified 
+home. However, if you both consent in writing, then one 
+spouse can take both 
+
+
+--- Page 6 ---
+interest on your loan and all of the real estate taxes on 
+your main home. For more details about the HAF program, 
+see Homeowner Assistance Fund in Pub. 530. If you re-
+ceived HAF funds from an Indian Tribal Government or an 
+Alaska Native Corporation and wish more details about 
+the HAF program, see FAQs for Payments by Indian Tribal 
+Governments 
+and 
+Alaska 
+Native 
+Corporations 
+to 
+Individuals Under COVID-Relief Legislation.
+Divorced or separated individuals. If a qualified 
+pre-2019 divorce or separation agreement requires you to 
+pay home mortgage interest on a home owned by your 
+spouse or former spouse or by both of you, the payment of 
+interest may be alimony. See the discussion of Payments 
+for jointly owned home under Alimony in Pub. 504, Di-
+vorced or Separated Individuals.
+Redeemable ground rents. In some states (such as 
+Maryland), you can buy your home subject to a ground 
+rent. A ground rent is an obligation you assume to pay a 
+fixed amount per year on the property. Under this arrange-
+ment, you're leasing (rather than buying) the land on 
+which your home is located.
+If you make annual or periodic rental payments on a re-
+deemable ground rent, you can deduct them as mortgage 
+interest.
+A ground rent is a redeemable ground rent if all of the 
+following are true.
+ΓÇó Your lease, including renewal periods, is for more than 
+15 years.
+ΓÇó You can freely assign the lease.
+ΓÇó You have a present or future right (under state or local 
+law) to end the lease and buy the lessor's entire inter-
+est in the land by paying a specific amount.
+ΓÇó The lessor's interest in the land is primarily a security 
+interest to protect the rental payments to which theyΓÇÖre 
+entitled.
+Payments made to end the lease and to buy the les-
+sor's entire interest in the land aren't deductible as mort-
+gage interest.
+Nonredeemable ground rents. Payments on a non-
+redeemable ground rent aren't mortgage interest. You can 
+deduct them as rent if they are a business expense or if 
+they are for r
+
+
+--- Page 7 ---
+maximum loan charges, loan discount, or discount points. 
+No
+Yes
+Yes
+No
+No
+Yes
+No
+Yes
+No
+No
+Yes
+No
+Yes
+Yes
+No
+No
+Yes
+Yes
+Yes
+No
+Figure B.  Are My Points Fully Deductible This Year?
+Start Here:
+Is the loan secured by your main home?
+Is the payment of points an established 
+business practice in your area?
+Do you use the cash method of 
+accounting?
+Were the funds you provided (other than 
+those you borrowed from your lender or 
+mortgage broker), plus any points the 
+seller paid, at least as much as the points 
+charged?*
+Did you take out the loan to substantially 
+improve your main home?
+Did you take out the loan to buy or build 
+your main home?
+Were the points ∩¼ügured as a percentage 
+of the principal amount of the mortgage?
+Is the amount paid clearly shown as 
+points on the settlement statement?
+You can fully deduct the points this year 
+on Schedule A (Form 1040).
+Were the points paid in place of 
+amounts that ordinarily are separately 
+stated on the settlement sheet?
+You cannot fully deduct the points this 
+year. See the discussion on Points, 
+earlier. 
+* The funds you provided are not required to have been applied to the points. They can include a down payment, an escrow deposit, earnest money, and other 
+funds you paid at or before closing for any purpose.
+Were the points paid more than the 
+amount generally charged in your area?
+Publication 936 (2025)
+7
+
+
+
+--- Page 8 ---
+A borrower is treated as paying any points that a home 
+seller pays for the borrower's mortgage. See Points paid 
+by the seller, later.
+General Rule
+You generally can't deduct the full amount of points in the 
+year paid. Because they are prepaid interest, you gener-
+ally deduct them ratably over the life (term) of the mort-
+gage. See Deduction Allowed Ratably next. If the loan is a 
+home equity, line of credit, or credit card loan and the pro-
+ceeds from the loan are not used to buy, build, or substan-
+tially improve the home, the points are not deductible.
+For exceptions to the general rule, see Deduction Al-
+lowed in Year Paid, later.
+Deduction Allowed Ratably
+If you don't meet the tests listed under Deduction Allowed 
+in Year Paid, later, the loan isn't a home improvement loan, 
+or you choose not to deduct your points in full in the year 
+paid, you can deduct the points ratably (equally) over the 
+life of the loan if you meet all of the following tests.
+1. You use the cash method of accounting. This means 
+you report income in the year you receive it and de-
+duct expenses in the year you pay them. Most individ-
+uals use this method.
+2. Your loan is secured by a home. (The home doesn't 
+need to be your main home.)
+3. Your loan period isn't more than 30 years.
+4. If your loan period is more than 10 years, the terms of 
+your loan are the same as other loans offered in your 
+area for the same or longer period.
+5. Either the initial principal amount of your loan was 
+$250,000 or less, or the number of points isn't more 
+than:
+a. 4, if your loan period is 15 years or less; or
+b. 6, if your loan period is more than 15 years.
+Example. You use the cash method of accounting. In 
+2025, you took out a $100,000 home mortgage loan paya-
+ble over 20 years. The terms of the loan are the same as 
+for other 20-year loans offered in your area. You paid 
+$4,800 in points. You made 3 monthly payments on the 
+loan in 2025. You can deduct $60 [($4,800 ├╖ 240 months) 
+x 3 payments] in 20
+
+
+======================================================================
+FILE: p946.pdf
+Pages: 113
+======================================================================
+
+--- Page 1 ---
+Publication 946
+How To
+Depreciate
+Property
+ΓÇó Section 179 Deduction
+ΓÇó Special Depreciation
+Allowance
+ΓÇó MACRS
+ΓÇó Listed Property
+For use in preparing
+2025 Returns
+Get forms and other information faster and easier at:
+ΓÇó IRS.gov (English) 
+ΓÇó IRS.gov/Spanish (Espa├▒ol) 
+ΓÇó IRS.gov/Chinese (Σ╕¡µûç) 
+ΓÇó IRS.gov/Korean (φò£Ω╡¡∞û┤) 
+ΓÇó IRS.gov/Russian (P╤â╤ü╤ü╨║╨╕╨╣) 
+ΓÇó IRS.gov/Vietnamese (Tiß║┐ng Viß╗çt) 
+Future Developments
+For the latest information about developments related to 
+Pub. 946, such as legislation enacted after it was 
+published, go to IRS.gov/Pub946.
+WhatΓÇÖs New for 2025
+Section 179 deduction dollar limits.  For tax years be-
+ginning in 2025, the maximum section 179 expense de-
+duction is $2,500,000. This limit is reduced by the amount 
+by which the cost of section 179 property placed in serv-
+ice during the tax year exceeds $4,000,000. See Dollar 
+Limits in chapter 2.
+Also, the maximum section 179 expense deduction for 
+sport utility vehicles placed in service in tax years begin-
+ning in 2025 is $31,300.
+Phase down of special depreciation allowance for 
+qualified property acquired before January 20, 2025, 
+and certain plants bearing fruits and nuts planted or 
+grafted before January 20, 2025. The special deprecia-
+tion allowance is limited to 40% for certain qualified prop-
+erty acquired after September 27, 2017, and placed in 
+service after December 31, 2024, and before January 1, 
+2026 (other than certain property with a long production 
+period and certain aircraft). Property with a long produc-
+tion period and certain aircraft placed in service after De-
+cember 31, 2024, and before January 1, 2026, is limited to 
+a special depreciation allowance is 60% of the deprecia-
+ble basis of the property. The special depreciation allow-
+ance is also limited to 40% for certain specified plants 
+bearing fruits and nuts planted or grafted after December 
+31, 2024, and before January 20, 2025. See Certain 
+Qualified Property Acquired after September 27, 2017, 
+and Before January 20, 2025, and C
+
+
+--- Page 2 ---
+for qualified production property. Qualified production 
+property placed in service after July 4, 2025, the construc-
+tion of which began or that was acquired after January 19, 
+2025, is eligible for a 100% special depreciation allow-
+ance. See Qualified Production Property in chapter 3.
+Additions to 5-year property.  Any qualified facility (as 
+defined in section 45Y(b)(1)(A) of the Internal Revenue 
+Code), any qualified property (as defined in subsection (b)
+(2) of section 48E of the Internal Revenue Code) which is 
+a qualified investment (as defined in subsection (b)(1) of 
+such section), or any energy storage technology (as de-
+fined in subsection (c)(2) of such section) that is placed in 
+service after December 31, 2024, is 5-year property.
+Removal of solar or wind energy property from the 
+definition of 5-year property.  Section 70509 of P.L. 
+119-21 removed solar or wind energy property from the 
+definition of 5-year property under section 168(e)(3)(B)(vi) 
+of the Internal Revenue Code. This applies to solar or 
+wind energy property beginning construction after Decem-
+ber 31, 2024.
+WhatΓÇÖs New for 2026
+Section 179 deduction dollar limits. For tax years be-
+ginning in 2026, the maximum section 179 expense de-
+duction is $2,560,000. This limit is reduced by the amount 
+by which the cost of section 179 property placed in serv-
+ice during the tax year exceeds $4,090,000.
+Also, the maximum section 179 expense deduction for 
+sport utility vehicles placed in service in tax years begin-
+ning in 2026 is $32,000.
+Reminders
+Photographs of missing children. The Internal Reve-
+nue Service is a proud partner with the National Center for 
+Missing & Exploited Children┬« (NCMEC). Photographs of 
+missing children selected by the Center may appear in 
+this publication on pages that would otherwise be blank. 
+You can help bring these children home by looking at the 
+photographs 
+and 
+calling 
+1-800-THE-LOST 
+(1-800-843-5678) if you recognize a child.
+Introduction
+This publication 
+
+
+--- Page 3 ---
+1.
+Overview of Depreciation
+Introduction
+Depreciation is an annual income tax deduction that al-
+lows you to recover the cost or other basis of certain prop-
+erty over the time you use the property. It is an allowance 
+for the wear and tear, deterioration, or obsolescence of 
+the property.
+This chapter discusses the general rules for depreciat-
+ing property and answers the following questions.
+ΓÇó What property can be depreciated?
+ΓÇó What property cannot be depreciated?
+ΓÇó When does depreciation begin and end?
+ΓÇó What method can you use to depreciate your prop-
+erty?
+ΓÇó What is the basis of your depreciable property?
+ΓÇó How do you treat repairs and improvements?
+ΓÇó Do you have to file Form 4562?
+ΓÇó How do you correct depreciation deductions?
+Useful Items
+You may want to see:
+Publication
+534 Depreciating Property Placed in Service Before 
+1987
+538 Accounting Periods and Methods
+551 Basis of Assets
+Form (and Instructions)
+Sch C (Form 1040) Profit or Loss From Business
+2106 Employee Business Expenses
+3115 Application for Change in Accounting Method
+4562 Depreciation and Amortization
+See How To Get Tax Help at the end of this publication for 
+information about getting publications and forms.
+What Property Can Be 
+Depreciated?
+Terms you may need to know 
+(see Glossary):
+ 
+Adjusted basis
+  534 
+  538 
+  551 
+  Sch C (Form 1040)
+  2106 
+  3115 
+  4562 
+ 
+Basis
+ 
+Commuting
+ 
+Disposition
+ 
+Fair market value (FMV)
+ 
+Intangible property
+ 
+Listed property
+ 
+Placed in service
+ 
+Tangible property
+ 
+Term interest
+ 
+Useful life
+ 
+You can depreciate most types of tangible property (ex-
+cept land), such as buildings, machinery, vehicles, furni-
+ture, and equipment. You can also depreciate certain in-
+tangible property, such as patents, copyrights, and 
+computer software.
+To be depreciable, the property must meet all the fol-
+lowing requirements.
+ΓÇó It must be property you own.
+ΓÇó It must be used in your business or income-producing 
+activity.
+ΓÇó It must have a determinable useful life.
+ΓÇó It must
+
+
+--- Page 4 ---
+from you) has agreed to preserve, replace, renew, and 
+maintain the property. However, if the lease provides that 
+the lessee is to maintain the property and return to you the 
+same property or its equivalent in value at the expiration of 
+the lease in as good condition and value as when leased, 
+you cannot depreciate the cost of the property.
+Incidents of ownership. Incidents of ownership in 
+property include the following.
+ΓÇó The legal title to the property.
+ΓÇó The legal obligation to pay for the property.
+ΓÇó The responsibility to pay maintenance and operating 
+expenses.
+ΓÇó The duty to pay any taxes on the property.
+ΓÇó The risk of loss if the property is destroyed, con-
+demned, or diminished in value through obsolescence 
+or exhaustion.
+Life tenant. Generally, if you hold business or investment 
+property as a life tenant, you can depreciate it as if you 
+were the absolute owner of the property. However, see 
+Certain term interests in property under Excepted Prop-
+erty, later.
+Cooperative apartments. If you are a tenant-stock-
+holder in a cooperative housing corporation and use your 
+cooperative apartment in your business or for the produc-
+tion of income, you can depreciate your stock in the cor-
+poration, even though the corporation owns the apart-
+ment.
+Figure your depreciation deduction as follows.
+1. Figure the depreciation for all the depreciable real 
+property owned by the corporation in which you have 
+a proprietary lease or right of tenancy. If you bought 
+your cooperative stock after its first offering, figure the 
+depreciable basis of this property as follows.
+a. Multiply your cost per share by the total number of 
+outstanding shares, including any shares held by 
+the corporation.
+b. Add to the amount figured in (a) any mortgage 
+debt on the property on the date you bought the 
+stock.
+c. Subtract from the amount figured in (b) any mort-
+gage debt that is not for the depreciable real prop-
+erty, such as the part for the land.
+2. Subtract from the amount figure
+
+
+--- Page 5 ---
+about qualified business use of listed property, see What 
+Is the Business-Use Requirement? in chapter 5.
+Office in the home. If you use part of your home as an 
+office, you may be able to deduct depreciation on that part 
+based on its business use. For information about depreci-
+ating your home office, see Pub. 587.
+Inventory. You cannot depreciate inventory because it is 
+not held for use in your business. Inventory is any property 
+you hold primarily for sale to customers in the ordinary 
+course of your business.
+If you are a rent-to-own dealer, you may be able to treat 
+certain property held in your business as depreciable 
+property rather than as inventory. See Rent-to-own dealer 
+under Which Property Class Applies Under GDS? in 
+chapter 4.
+In some cases, it is not clear whether property is held 
+for sale (inventory) or for use in your business. If it is un-
+clear, examine carefully all the facts in the operation of the 
+particular business. The following example shows how a 
+careful examination of the facts in two similar situations re-
+sults in different conclusions.
+Example. Maple Corporation is in the business of 
+leasing cars. At the end of their useful lives, when the cars 
+are no longer profitable to lease, Maple sells them. Maple 
+does not have a showroom, used car lot, or individuals to 
+sell the cars. Instead, it sells them through wholesalers or 
+by similar arrangements in which a dealerΓÇÖs profit is not in-
+tended or considered. Maple can depreciate the leased 
+cars because the cars are not held primarily for sale to 
+customers in the ordinary course of business, but are 
+leased.
+If Maple buys cars at wholesale prices, leases them for 
+a short time, and then sells them at retail prices or in sales 
+in which a dealerΓÇÖs profit is intended, the cars are treated 
+as inventory and are not depreciable property. In this sit-
+uation, the cars are held primarily for sale to customers in 
+the ordinary course of business.
+Containers. Generally, containers for t
+
+
+--- Page 6 ---
+trees right next to it. These bushes and trees are closely 
+associated with the building, so they have a determinable 
+useful life. Therefore, you can depreciate them. Add your 
+other land preparation costs to the basis of your land be-
+cause they have no determinable life and you cannot de-
+preciate them.
+Excepted Property
+Even if the requirements explained in the preceding dis-
+cussions are met, you cannot depreciate the following 
+property.
+ΓÇó Property placed in service and disposed of in the 
+same year. Determining when property is placed in 
+service is explained later.
+ΓÇó Equipment used to build capital improvements. You 
+must add otherwise allowable depreciation on the 
+equipment during the period of construction to the ba-
+sis of your improvements. See Uniform Capitalization 
+Rules in Pub. 551.
+ΓÇó Section 197 intangibles. You must amortize these 
+costs. Intangible property, such as certain computer 
+software, that is not section 197 intangible property, 
+can be depreciated if it meets certain requirements. 
+See Intangible Property, later.
+ΓÇó Certain term interests.
+Certain term interests in property. You cannot depreci-
+ate a term interest in property created or acquired after 
+July 27, 1989, for any period during which the remainder 
+interest is held, directly or indirectly, by a person related to 
+you. A term interest in property means a life interest in 
+property, an interest in property for a term of years, or an 
+income interest in a trust.
+Related persons. For a description of related per-
+sons, see Related persons, later. For this purpose, how-
+ever, treat as related persons only the relationships listed 
+in items (1) through (10) of that discussion and substitute 
+ΓÇ£50%ΓÇ¥ for ΓÇ£10%ΓÇ¥ each place it appears.
+Basis adjustments. If you would be allowed a depre-
+ciation deduction for a term interest in property except that 
+the holder of the remainder interest is related to you, you 
+must generally reduce your basis in the term interest by 
+any depreciation or amo
+
+
+--- Page 7 ---
+Conversion to business use. If you place property in 
+service in a personal activity, you cannot claim deprecia-
+tion. However, if you change the propertyΓÇÖs use to use in a 
+business or income-producing activity, then you can begin 
+to depreciate it at the time of the change. You place the 
+property in service in the business or income-producing 
+activity on the date of the change.
+Example. You bought a home and used it as your per-
+sonal home several years before you converted it to rental 
+property. Although its specific use was personal and no 
+depreciation was allowable, you placed the home in serv-
+ice when you began using it as your home. You can begin 
+to claim depreciation in the year you converted it to rental 
+property because its use changed to an income-produc-
+ing use at that time.
+Idle Property
+Continue to claim a deduction for depreciation on property 
+used in your business or for the production of income even 
+if it is temporarily idle (not in use). For example, if you stop 
+using a machine because there is a temporary lack of a 
+market for a product made with that machine, continue to 
+deduct depreciation on the machine.
+Cost or Other Basis Fully Recovered
+You stop depreciating property when you have fully recov-
+ered your cost or other basis. You fully recover your basis 
+when your section 179 deduction, allowed or allowable 
+depreciation deductions, and salvage value, if applicable, 
+equal the cost or investment in the property. See What Is 
+the Basis of Your Depreciable Property, later.
+Retired From Service
+You stop depreciating property when you retire it from 
+service, even if you have not fully recovered its cost or 
+other basis. You retire property from service when you 
+permanently withdraw it from use in a trade or business or 
+from use in the production of income because of any of 
+the following events.
+ΓÇó You sell or exchange the property.
+ΓÇó You convert the property to personal use.
+ΓÇó You abandon the property.
+ΓÇó You transfer the property t
+
+
+--- Page 8 ---
+July 31, 1986, if MACRS was elected). Property placed in 
+service before 1987 must be depreciated under the meth-
+ods discussed in Pub. 534.
+For a discussion of when property is placed in service, 
+see When Does Depreciation Begin and End, earlier.
+Use of real property changed. You must generally use 
+MACRS to depreciate real property that you acquired for 
+personal use before 1987 and changed to business or in-
+come-producing use after 1986.
+Improvements made after 1986. You must treat an im-
+provement made after 1986 to property you placed in 
+service before 1987 as separate depreciable property. 
+Therefore, you can depreciate that improvement as sepa-
+rate property under MACRS if it is the type of property that 
+otherwise qualifies for MACRS depreciation. For more in-
+formation about improvements, see How Do You Treat Re-
+pairs and Improvements, later, and Additions and Im-
+provements under Which Recovery Period Applies? in 
+chapter 4.
+Property Owned or Used in 1986
+You may not be able to use MACRS for property you ac-
+quired and placed in service after 1986 if any of the situa-
+tions described below apply. If you cannot use MACRS, 
+the property must be depreciated under the methods dis-
+cussed in Pub. 534.
+Caution: For the following discussions, do not treat 
+property as owned before you placed it in service. If you 
+owned property in 1986 but did not place it in service until 
+1987, you do not treat it as owned in 1986.
+Personal property. You cannot use MACRS for personal 
+property (section 1245 property) in any of the following sit-
+uations.
+1. You or someone related to you owned or used the 
+property in 1986.
+2. You acquired the property from a person who owned it 
+in 1986 and as part of the transaction the user of the 
+property did not change.
+3. You lease the property to a person (or someone rela-
+ted to this person) who owned or used the property in 
+1986.
+4. You acquired the property in a transaction in which:
+a. The user of the property did not change, a
+
