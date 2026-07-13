@@ -20,26 +20,26 @@ An enterprise-grade AI research assistant for US Tax Law & Legal documents. Answ
 
 ## 🏗️ Architecture
 
-```
+```text
 PDF Documents
     │
     ▼
-[1] Parser (PyPDF2 / pdfplumber)
+[1] Parser (PyMuPDF)
     │  Extracts text, preserves page numbers & sections
     ▼
 [2] Hybrid Search Indexing
-    ├─► Pinecone  (Vector DB — semantic search via nomic-embed-text)
-    ├─► Elasticsearch (BM25 keyword search — optional)
+    ├─► Pinecone  (Vector DB — semantic search via Gemini Embeddings)
+    ├─► rank_bm25 (In-memory BM25 keyword search)
     └─► NetworkX  (Citation Graph — Graph RAG)
     │
     ▼
 [3] Query Pipeline
     │  User query → embed → hybrid search → graph enrichment
     ▼
-[4] LLM (Groq llama-3.3-70b)
+[4] LLM (Groq llama-3.3-70b-versatile)
     │  Answers ONLY from retrieved chunks, with citations
     ▼
-[5] Streamlit UI / FastAPI
+[5] Next.js Frontend / FastAPI Backend
     │  Displays answer + exact source document + page number
 ```
 
@@ -49,13 +49,13 @@ PDF Documents
 
 | Layer | Tool |
 |-------|------|
-| Embeddings | Ollama `nomic-embed-text` (local, 768-dim) |
+| Embeddings | Google Gemini API (`gemini-embedding-001`, 768-dim) |
 | Vector Store | Pinecone (serverless, cosine similarity) |
-| Keyword Search | Elasticsearch 8.x BM25 (Docker, optional) |
+| Keyword Search | `rank_bm25` (In-memory BM25Okapi) |
 | LLM | Groq `llama-3.3-70b-versatile` |
 | Graph RAG | NetworkX (Judgment → Act citation mapping) |
-| UI | Streamlit |
-| API | FastAPI |
+| Frontend | Next.js / React |
+| Backend API | FastAPI |
 
 ---
 
@@ -68,55 +68,44 @@ git clone https://github.com/ashishSoni1234/legal-tax-rag-engine.git
 cd legal-tax-rag-engine
 ```
 
-### Step 2: Install Python dependencies
+### Step 2: Install Dependencies
 
+You need both Python and Node.js installed.
+
+**Python Dependencies (Backend):**
 > Requires **Python 3.10+**
-
 ```bash
 pip install -r requirements.txt
 ```
 
-### Step 3: Install & start Ollama (for local embeddings)
-
-Download Ollama from: **https://ollama.ai** and install it.
-
-Then run:
+**Node.js Dependencies (Frontend):**
 ```bash
-ollama serve
-ollama pull nomic-embed-text
+npm install
 ```
 
-> ⚠️ Ollama MUST be running before starting the app. Without it, embeddings will fail.
-
-### Step 4: Configure API Keys
+### Step 3: Configure API Keys
 
 Create a `.env` file in the root directory (copy from template):
 ```bash
 cp .env.example .env
 ```
 
-Then open `.env` and fill in **2 required keys**:
+Then open `.env` and fill in **3 required keys**:
 
 ```env
 # 1. Get FREE from: https://console.groq.com
 LLM_API_KEY=your_groq_api_key_here
 
-# 2. Get FREE from: https://app.pinecone.io
+# 2. Get FREE from: https://aistudio.google.com/app/apikey
+GEMINI_API_KEY=your_gemini_api_key_here
+
+# 3. Get FREE from: https://app.pinecone.io
 PINECONE_API_KEY=your_pinecone_api_key_here
 ```
 
 All other values in `.env` can remain as defaults.
 
-### Step 5: (Optional) Start Elasticsearch for full Hybrid Search
-
-> Skip this step if you don't have Docker. The system works without it (vector-only mode).
-
-```bash
-docker-compose up -d
-# Wait ~30 seconds for Elasticsearch to be ready
-```
-
-### Step 6: Parse PDFs and build the search index
+### Step 4: Parse PDFs and build the search index
 
 > ⚠️ This step only needs to be done ONCE. It reads all PDFs and uploads vectors to Pinecone.
 
@@ -128,18 +117,19 @@ python src/parser.py
 python src/search.py --build
 ```
 
-### Step 7: Run the Streamlit UI
-
-```bash
-streamlit run src/app.py
-# Opens automatically at: http://localhost:8501
-```
-
-### Step 8: (Optional) Run the FastAPI backend
+### Step 5: Run the FastAPI Backend
 
 ```bash
 uvicorn src.api:app --reload --port 8000
 # Swagger docs at: http://localhost:8000/docs
+```
+
+### Step 6: Run the Next.js Frontend
+
+In a new terminal window:
+```bash
+npm run dev
+# Opens automatically at: http://localhost:3000
 ```
 
 ---
@@ -170,7 +160,7 @@ python -m pytest tests/test_system.py -v
 
 ## 📁 Project Structure
 
-```
+```text
 legal-tax-rag-engine/
 ├── data/
 │   ├── acts/          # 30 PDFs — 26 USC Tax Code sections
@@ -179,11 +169,11 @@ legal-tax-rag-engine/
 │   └── Tax/           # 10 PDFs — IRS Publications
 ├── src/
 │   ├── parser.py      # Milestone 1: PDF ingestion & chunking
-│   ├── search.py      # Milestone 2: Hybrid Pinecone + Elasticsearch
+│   ├── search.py      # Milestone 2: Hybrid Pinecone + rank_bm25
 │   ├── graph_rag.py   # Milestone 2: Citation graph (NetworkX)
 │   ├── api.py         # Milestone 3: FastAPI Q&A & Summarization
-│   ├── app.py         # Milestone 3: Streamlit UI
 │   └── evaluate.py    # Milestone 4: Golden Set evaluation pipeline
+├── app/               # Next.js Frontend UI pages
 ├── tests/
 │   └── test_system.py
 ├── outputs/
@@ -193,9 +183,9 @@ legal-tax-rag-engine/
 ├── docs/
 │   └── Evaluation_Report.md    # Pre-generated evaluation proof
 ├── Golden_Set.xlsx             # 90-question evaluation dataset
-├── docker-compose.yml          # Elasticsearch setup
 ├── .env.example                # API key template
-└── requirements.txt
+├── requirements.txt
+└── package.json                # Frontend dependencies
 ```
 
 ---
@@ -206,5 +196,4 @@ legal-tax-rag-engine/
 |-----|-------------|-----------|
 | `PINECONE_API_KEY` | [app.pinecone.io](https://app.pinecone.io) | ✅ Yes |
 | `LLM_API_KEY` (Groq) | [console.groq.com](https://console.groq.com) | ✅ Yes |
-| Ollama | [ollama.ai](https://ollama.ai) (local install) | ✅ Yes |
-| Elasticsearch | Docker (`docker-compose up -d`) | ❌ Optional |
+| `GEMINI_API_KEY` | [aistudio.google.com](https://aistudio.google.com/app/apikey) | ✅ Yes |

@@ -8,5 +8,11 @@
   },
   "env": {
     "PYTHONPATH": "."
-  }
+  },
+  "rewrites": [
+    {
+      "source": "/api/(.*)",
+      "destination": "/api/index"
+    }
+  ]
 }

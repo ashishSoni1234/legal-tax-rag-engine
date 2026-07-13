@@ -10,10 +10,8 @@ Covers:
     2. OKF wrapper (structure validation)
     3. Hybrid search (merge logic, scoring)
     4. Graph RAG (build, enrich, save/load)
-    5. Ollama embeddings (live ping)
-    6. Pinecone (connection + index stats)
-    7. Elasticsearch (availability check)
-    8. End-to-end search (real query)
+    5. Pinecone (connection + index stats)
+    6. End-to-end search (real query)
 """
 
 import os
@@ -62,16 +60,7 @@ def _is_port_open(host: str, port: int, timeout: float = 2.0) -> bool:
         return False
 
 
-def _is_ollama_running() -> bool:
-    try:
-        urllib.request.urlopen("http://localhost:11434/api/tags", timeout=3)
-        return True
-    except Exception:
-        return False
 
-
-def _is_es_running() -> bool:
-    return _is_port_open("localhost", 9200)
 
 
 # ══════════════════════════════════════════════════════════════════════════════
@@ -420,36 +409,6 @@ class TestGraphRAG(unittest.TestCase):
 # 5. Live Service Tests (skipped if services not running)
 # ══════════════════════════════════════════════════════════════════════════════
 
-class TestOllamaLive(unittest.TestCase):
-
-    @unittest.skipUnless(_is_ollama_running(), "Ollama not running")
-    def test_embed_texts_returns_correct_dim(self):
-        from search import _embed_texts, EMBED_DIM
-        embeddings = _embed_texts(["The quick brown fox"])
-        self.assertEqual(len(embeddings), 1)
-        self.assertEqual(len(embeddings[0]), EMBED_DIM)
-
-    @unittest.skipUnless(_is_ollama_running(), "Ollama not running")
-    def test_embed_texts_values_not_all_zero(self):
-        from search import _embed_texts
-        embeddings = _embed_texts(["§ 162 trade expenses"])
-        emb = embeddings[0]
-        self.assertFalse(all(v == 0.0 for v in emb), "All-zero embedding returned")
-
-    @unittest.skipUnless(_is_ollama_running(), "Ollama not running")
-    def test_embed_query_single(self):
-        from search import embed_query
-        vec = embed_query("What is gross income under § 61?")
-        self.assertIsInstance(vec, list)
-        self.assertGreater(len(vec), 0)
-
-    @unittest.skipUnless(not _is_ollama_running(), "Ollama IS running")
-    def test_embed_raises_when_ollama_down(self):
-        from search import _embed_texts
-        with self.assertRaises(RuntimeError):
-            _embed_texts(["test"])
-
-
 class TestPineconeLive(unittest.TestCase):
 
     @unittest.skipUnless(
@@ -473,33 +432,7 @@ class TestPineconeLive(unittest.TestCase):
         self.assertGreaterEqual(stats["total_vector_count"], 0)
 
 
-class TestElasticsearchLive(unittest.TestCase):
 
-    @unittest.skipUnless(_is_es_running(), "Elasticsearch not running")
-    def test_es_ping(self):
-        from search import _get_es
-        es = _get_es()
-        self.assertIsNotNone(es)
-        self.assertTrue(es.ping())
-
-    @unittest.skipUnless(_is_es_running(), "Elasticsearch not running")
-    def test_es_index_setup(self):
-        from search import _get_es, _es_setup_index, ES_INDEX
-        es = _get_es()
-        _es_setup_index(es)
-        self.assertTrue(es.indices.exists(index=ES_INDEX))
-
-    def test_es_unavailable_returns_none(self):
-        """When ES is not running, _get_es() should return None gracefully."""
-        if _is_es_running():
-            self.skipTest("ES is actually running — can't test unavailability")
-        from search import _get_es
-        # Reset cached state
-        import search as _search
-        _search._es_available = None
-        _search._es_client    = None
-        result = _get_es()
-        self.assertIsNone(result)
 
 
 # ══════════════════════════════════════════════════════════════════════════════
@@ -509,8 +442,8 @@ class TestElasticsearchLive(unittest.TestCase):
 class TestEndToEndSearch(unittest.TestCase):
 
     @unittest.skipUnless(
-        _is_ollama_running() and bool(os.getenv("PINECONE_API_KEY")),
-        "Requires Ollama running + PINECONE_API_KEY set"
+        bool(os.getenv("PINECONE_API_KEY")),
+        "Requires PINECONE_API_KEY set"
     )
     def test_hybrid_search_returns_results(self):
         from search import hybrid_search, build_index
@@ -520,8 +453,8 @@ class TestEndToEndSearch(unittest.TestCase):
         self.assertGreater(len(results), 0)
 
     @unittest.skipUnless(
-        _is_ollama_running() and bool(os.getenv("PINECONE_API_KEY")),
-        "Requires Ollama running + PINECONE_API_KEY set"
+        bool(os.getenv("PINECONE_API_KEY")),
+        "Requires PINECONE_API_KEY set"
     )
     def test_hybrid_search_result_schema(self):
         from search import hybrid_search, build_index
@@ -537,8 +470,8 @@ class TestEndToEndSearch(unittest.TestCase):
             self.assertLessEqual(r["hybrid_score"],    1.0)
 
     @unittest.skipUnless(
-        _is_ollama_running() and bool(os.getenv("PINECONE_API_KEY")),
-        "Requires Ollama running + PINECONE_API_KEY set"
+        bool(os.getenv("PINECONE_API_KEY")),
+        "Requires PINECONE_API_KEY set"
     )
     def test_hybrid_search_top_k_respected(self):
         from search import hybrid_search, build_index
@@ -682,8 +615,7 @@ if __name__ == "__main__":
     print("\n" + "=" * 60)
     print("SERVICE STATUS CHECK")
     print("=" * 60)
-    print(f"  Ollama   : {'✅ Running' if _is_ollama_running() else '❌ Not running (embed tests will skip)'}")
-    print(f"  ES 9200  : {'✅ Running' if _is_es_running() else '⚠️  Not running (keyword search disabled)'}")
+
     pin_key = os.getenv("PINECONE_API_KEY", "")
     print(f"  Pinecone : {'✅ Key set' if pin_key else '❌ PINECONE_API_KEY not set'}")
     llm_key  = os.getenv("LLM_API_KEY", "")

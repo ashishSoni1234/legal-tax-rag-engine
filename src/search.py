@@ -2,7 +2,7 @@
 src/search.py — Vercel Edition: Hybrid Search (Vector + BM25)
 =============================================================
 Stack:
-  - Embeddings  : Google Gemini API (models/text-embedding-004, 768-dim)
+  - Embeddings  : Google Gemini API (models/gemini-embedding-001, 768-dim)
   - Vector store: Pinecone (cloud, cosine similarity)
   - Keyword     : rank_bm25 (in-memory BM25Okapi — no Docker required)
   - Hybrid score: 0.6 × vector + 0.4 × keyword (configurable)
@@ -32,7 +32,7 @@ PINECONE_INDEX_NAME = "legal-tax-rag"
 
 GEMINI_API_KEY      = os.getenv("GEMINI_API_KEY", "")
 GEMINI_EMBED_MODEL  = "gemini-embedding-001"
-EMBED_DIM           = 768   # text-embedding-004 output dimension
+EMBED_DIM           = 768   # gemini-embedding-001 output dimension
 
 VECTOR_WEIGHT       = float(os.getenv("VECTOR_WEIGHT",  "0.6"))
 KEYWORD_WEIGHT      = float(os.getenv("KEYWORD_WEIGHT", "0.4"))

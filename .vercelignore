@@ -1,0 +1,8 @@
+node_modules/
+.next/
+outputs/chroma_db/
+outputs/sklearn_numpy_index.npz
+.git/
+.vscode/
+.idea/
+*.xlsx

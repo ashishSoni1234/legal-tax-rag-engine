@@ -15,9 +15,9 @@ graph TD
     end
 
     subgraph M2["🔍 Milestone 2: Search Architecture"]
-        E[Ollama REST API<br/>nomic-embed-text<br/>768-dim embeddings — local]
+        E[Google Gemini API<br/>gemini-embedding-001<br/>768-dim embeddings]
         F[(Pinecone Cloud<br/>ANN vector index<br/>cosine similarity)]
-        G[Elasticsearch<br/>BM25 keyword index<br/>localhost:9200<br/>docker-compose up -d]
+        G[rank_bm25<br/>BM25 keyword index<br/>in-memory]
         H[Hybrid Scorer<br/>0.6 × vector + 0.4 × keyword]
         I[graph_rag.py<br/>NetworkX citation graph<br/>Judgment → Act edges]
         J[(citation_graph.json<br/>edge list)]
@@ -27,7 +27,7 @@ graph TD
     subgraph M3["🤖 Milestone 3: Q&A + Summarization"]
         L[FastAPI Backend<br/>api.py<br/>POST /query • POST /summarize]
         M[Groq — llama-3.3-70b-versatile<br/>temp=0 • strict grounding prompt<br/>citation format enforced]
-        N[Streamlit UI<br/>app.py<br/>Dark theme • Q&A tab • Summary tab<br/>Service status panel]
+        N[Next.js UI<br/>app/page.tsx<br/>Dark theme • Q&A tab • Summary tab]
     end
 
     subgraph M4["📊 Milestone 4: Evaluation"]
@@ -75,10 +75,10 @@ PDF Files
                                           │                               │
                                           ▼                               ▼
                                     [search.py]                    [graph_rag.py]
-                                  Embeddings: Ollama              Citation graph
-                                  (nomic-embed-text, 768-dim)     NetworkX DiGraph
+                                  Embeddings: Google Gemini API   Citation graph
+                                  (gemini-embedding-001, 768-dim) NetworkX DiGraph
                                   Vector:   Pinecone               ↕ JSON edge list
-                                  Keyword:  Elasticsearch BM25
+                                  Keyword:  rank_bm25 (In-memory)
                                   Hybrid:   0.6v + 0.4k
                                           │                               │
                                           └───────────────────────────────┘
@@ -104,7 +104,7 @@ PDF Files
                               [doc_name, page, score]
                                        │
                                        ▼
-                               [Streamlit UI - app.py]
+                               [Next.js UI - app/page.tsx]
 ```
 
 ---
@@ -116,9 +116,9 @@ PDF Files
 | PDF parser | PyMuPDF (fitz) | Fastest, handles complex legal document layouts |
 | Tokenizer | tiktoken cl100k_base | Accurate token counting for chunk sizing |
 | Chunk size | 600 tokens / 75 overlap | Balances context richness vs. retrieval precision |
-| Embeddings | Ollama nomic-embed-text (768-dim) | Free, local, no API calls, strong semantic quality |
+| Embeddings | Google Gemini API (768-dim) | High quality embeddings via API |
 | Vector store | Pinecone (serverless, cosine) | Cloud-hosted ANN, handles 4,691+ vectors reliably |
-| Keyword search | Elasticsearch 8.x (BM25, English analyzer) | Exact legal term matching (§ numbers, IRC citations, case names) |
+| Keyword search | rank_bm25 (BM25Okapi) | In-memory exact legal term matching (§ numbers, IRC citations, case names) |
 | Hybrid weights | 0.6 vector / 0.4 keyword | Configurable; keyword critical for exact legal references |
 | Graph RAG | NetworkX DiGraph | Links Judgments→Acts via §-references; enriches retrieval context |
 | LLM | Groq llama-3.3-70b-versatile | High-speed inference, OpenAI-compatible API, temperature=0 |
@@ -131,11 +131,11 @@ PDF Files
 
 | Layer | Tool | Type |
 |-------|------|------|
-| Embeddings | Ollama nomic-embed-text | Local |
+| Embeddings | Google Gemini API | Cloud API |
 | Vector DB | Pinecone (serverless) | Cloud |
-| Keyword Search | Elasticsearch 8.x | Local (Docker) |
+| Keyword Search | rank_bm25 | In-memory |
 | LLM | Groq llama-3.3-70b-versatile | Cloud API |
-| UI | Streamlit | Local |
+| UI | Next.js / React | Local / Vercel |
 | API | FastAPI + Uvicorn | Local |
 | Graph | NetworkX | In-memory |
 
@@ -155,8 +155,8 @@ Legal_Tax_RAG_System/
 │   ├── search.py        # M2: Hybrid vector (Pinecone) + keyword (ES) search + OKF
 │   ├── graph_rag.py     # M2: Citation graph (NetworkX)
 │   ├── api.py           # M3: FastAPI backend
-│   ├── app.py           # M3: Streamlit UI
 │   └── evaluate.py      # M4: Evaluation pipeline
+├── app/                 # M3: Next.js Frontend UI pages
 ├── tests/
 │   └── test_system.py   # Unit + integration tests
 ├── outputs/
@@ -166,7 +166,6 @@ Legal_Tax_RAG_System/
 ├── docs/
 │   ├── architecture.md         (this file)
 │   └── Evaluation_Report.md    (M4 output)
-├── docker-compose.yml  (Elasticsearch single-node)
 ├── Golden_Set.xlsx     (135 Q&A pairs for evaluation)
 ├── requirements.txt
 ├── .env.example        (template — safe to commit)

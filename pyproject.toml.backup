@@ -1,0 +1,7 @@
+[project]
+name = "legal-tax-rag-engine"
+version = "0.1.0"
+dependencies = []
+
+[tool.vercel]
+entrypoint = "api.index:app"
