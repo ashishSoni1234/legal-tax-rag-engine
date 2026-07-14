@@ -1,5 +1,7 @@
 # ⚖️ Legal & Tax RAG System
 
+**🚀 Live Demo deployed on Vercel:** [https://legal-tax-rag-engine-wheat.vercel.app/](https://legal-tax-rag-engine-wheat.vercel.app/)
+
 An enterprise-grade AI research assistant for US Tax Law & Legal documents. Answers are **always grounded in source documents** with precise citations — no hallucinations.
 
 ---
