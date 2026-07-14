@@ -11,7 +11,7 @@ dist/
 build/
 
 # Outputs (large files)
-outputs/parsed_chunks.json
+
 outputs/chroma_db/
 outputs/sklearn_numpy_index.npz
 
